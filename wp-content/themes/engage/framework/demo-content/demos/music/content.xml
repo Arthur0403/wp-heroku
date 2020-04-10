@@ -1,0 +1,2844 @@
+<?xml version="1.0" encoding="UTF-8" ?><!-- generator="WordPress/4.8.1" created="2017-09-01 15:08" --><rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+
+<channel>
+	<title>Engage Music</title>
+	<link>http://engage.veented.com/music</link>
+	<description>Just another Engage Theme Demos site</description>
+	<pubDate>Tue, 26 Sep 2017 09:51:51 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://engage.veented.com/</wp:base_site_url>
+	<wp:base_blog_url>http://engage.veented.com/music</wp:base_blog_url>
+
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[vntd_engage_admin]]></wp:author_login><wp:author_email><![CDATA[prafgon@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Michael]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+	<wp:category>
+		<wp:term_id>2</wp:term_id>
+		<wp:category_nicename><![CDATA[classes]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Classes]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>3</wp:term_id>
+		<wp:category_nicename><![CDATA[photography]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Photography]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>4</wp:term_id>
+		<wp:category_nicename><![CDATA[travel]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Travel]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>5</wp:term_id>
+		<wp:category_nicename><![CDATA[video]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Video]]></wp:cat_name>
+	</wp:category>
+	<wp:tag>
+		<wp:term_id>6</wp:term_id>
+		<wp:tag_slug><![CDATA[peace]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Peace]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>7</wp:term_id>
+		<wp:tag_slug><![CDATA[yoga-class]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Yoga Class]]></wp:tag_name>
+	</wp:tag>
+	<wp:term>
+		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio-category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[buildings]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Buildings]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio-skills]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[concrete]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Concrete]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[member-position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[designer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Designer]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[11]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio-skills]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[elevators]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Elevators]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[12]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[testimonials-category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[general]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[General]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[member-position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[gym-instructor]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Gym Instructor]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio-category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[houses]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Houses]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[member-position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[instructor]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Instructor]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio-category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[open-space]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Open Space]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[member-position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[personal-trainer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Personal Trainer]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio-category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[public]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Public]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[portfolio-skills]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[steel]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Steel]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[member-position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[therapist]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Therapist]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[member-position]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[trainer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Trainer]]></wp:term_name>
+	</wp:term>
+	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[site-navigation]]></wp:term_slug><wp:term_name><![CDATA[Site Navigation]]></wp:term_name>
+</wp:term>
+
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+
+	
+	
+	
+	<item>
+		<title>music3</title>
+		<link>http://engage.veented.com/music/portfolio/new-album/music3/</link>
+		<pubDate>Tue, 08 Aug 2017 12:38:51 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/music3.jpeg</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>494</wp:post_id>
+		<wp:post_date><![CDATA[2017-08-08 12:38:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-08-08 12:38:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[music3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>139</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/music3.jpeg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/04/music3.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:700;s:4:"file";s:19:"2017/04/music3.jpeg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"music3-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"music3-300x263.jpeg";s:5:"width";i:300;s:6:"height";i:263;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"music3-768x672.jpeg";s:5:"width";i:768;s:6:"height";i:672;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:19:"music3-100x100.jpeg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"engage-large";a:4:{s:4:"file";s:19:"music3-800x600.jpeg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-wide";a:4:{s:4:"file";s:19:"music3-800x470.jpeg";s:5:"width";i:800;s:6:"height";i:470;s:9:"mime-type";s:10:"image/jpeg";}s:21:"engage-masonry-square";a:4:{s:4:"file";s:19:"music3-600x600.jpeg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:22:"engage-masonry-regular";a:4:{s:4:"file";s:19:"music3-600x420.jpeg";s:5:"width";i:600;s:6:"height";i:420;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-masonry-auto";a:4:{s:4:"file";s:19:"music3-600x525.jpeg";s:5:"width";i:600;s:6:"height";i:525;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-auto";a:4:{s:4:"file";s:16:"music3-900x.jpeg";s:5:"width";i:800;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>music5</title>
+		<link>http://engage.veented.com/music/portfolio/powerful-album/music5/</link>
+		<pubDate>Tue, 08 Aug 2017 12:41:09 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/music/wp-content/uploads/sites/28/2017/05/music5.jpeg</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>495</wp:post_id>
+		<wp:post_date><![CDATA[2017-08-08 12:41:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-08-08 12:41:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[music5]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>451</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://engage.veented.com/music/wp-content/uploads/sites/28/2017/05/music5.jpeg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/05/music5.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:700;s:4:"file";s:19:"2017/05/music5.jpeg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"music5-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"music5-300x263.jpeg";s:5:"width";i:300;s:6:"height";i:263;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"music5-768x672.jpeg";s:5:"width";i:768;s:6:"height";i:672;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:19:"music5-100x100.jpeg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"engage-large";a:4:{s:4:"file";s:19:"music5-800x600.jpeg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-wide";a:4:{s:4:"file";s:19:"music5-800x470.jpeg";s:5:"width";i:800;s:6:"height";i:470;s:9:"mime-type";s:10:"image/jpeg";}s:21:"engage-masonry-square";a:4:{s:4:"file";s:19:"music5-600x600.jpeg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:22:"engage-masonry-regular";a:4:{s:4:"file";s:19:"music5-600x420.jpeg";s:5:"width";i:600;s:6:"height";i:420;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-masonry-auto";a:4:{s:4:"file";s:19:"music5-600x525.jpeg";s:5:"width";i:600;s:6:"height";i:525;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-auto";a:4:{s:4:"file";s:16:"music5-900x.jpeg";s:5:"width";i:800;s:6:"height";i:700;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>music6</title>
+		<link>http://engage.veented.com/music/portfolio/unique-album/music6/</link>
+		<pubDate>Tue, 08 Aug 2017 12:44:54 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/music/wp-content/uploads/sites/28/2017/05/music6.jpeg</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>496</wp:post_id>
+		<wp:post_date><![CDATA[2017-08-08 12:44:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-08-08 12:44:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[music6]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>450</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://engage.veented.com/music/wp-content/uploads/sites/28/2017/05/music6.jpeg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/05/music6.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:820;s:4:"file";s:19:"2017/05/music6.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"music6-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"music6-293x300.jpeg";s:5:"width";i:293;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"music6-768x787.jpeg";s:5:"width";i:768;s:6:"height";i:787;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:19:"music6-100x100.jpeg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"engage-large";a:4:{s:4:"file";s:19:"music6-800x600.jpeg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-wide";a:4:{s:4:"file";s:19:"music6-800x470.jpeg";s:5:"width";i:800;s:6:"height";i:470;s:9:"mime-type";s:10:"image/jpeg";}s:21:"engage-masonry-square";a:4:{s:4:"file";s:19:"music6-600x600.jpeg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:22:"engage-masonry-regular";a:4:{s:4:"file";s:19:"music6-600x420.jpeg";s:5:"width";i:600;s:6:"height";i:420;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-masonry-auto";a:4:{s:4:"file";s:19:"music6-600x615.jpeg";s:5:"width";i:600;s:6:"height";i:615;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<item>
+		<title>photo-1478800907959-cd1621fbd465</title>
+		<link>http://engage.veented.com/music/home-3/photo-1478800907959-cd1621fbd465/</link>
+		<pubDate>Thu, 07 Sep 2017 12:16:01 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465.jpg</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>544</wp:post_id>
+		<wp:post_date><![CDATA[2017-09-07 12:16:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-09-07 12:16:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[photo-1478800907959-cd1621fbd465]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>189</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/04/photo-1478800907959-cd1621fbd465.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:800;s:4:"file";s:44:"2017/04/photo-1478800907959-cd1621fbd465.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-300x125.jpg";s:5:"width";i:300;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-768x320.jpg";s:5:"width";i:768;s:6:"height";i:320;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"photo-1478800907959-cd1621fbd465-1024x427.jpg";s:5:"width";i:1024;s:6:"height";i:427;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-wide";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-900x470.jpg";s:5:"width";i:900;s:6:"height";i:470;s:9:"mime-type";s:10:"image/jpeg";}s:21:"engage-masonry-square";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:22:"engage-masonry-regular";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-600x420.jpg";s:5:"width";i:600;s:6:"height";i:420;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-masonry-auto";a:4:{s:4:"file";s:44:"photo-1478800907959-cd1621fbd465-600x250.jpg";s:5:"width";i:600;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>About</title>
+		<link>http://engage.veented.com/music/about/</link>
+		<pubDate>Fri, 21 Apr 2017 15:41:22 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?page_id=16</guid>
+		<description/>
+		<content:encoded>[vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1502197623322{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="2/3" css=".vc_custom_1486050169012{padding-right: 50px !important;}"][vc_single_image image="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1449748040579-354c191a7934-800x600.jpg" img_size="800x600" css_animation="none" frame="" css=".vc_custom_1504786950792{margin-bottom: 0px !important;}"][/vc_column][vc_column width="1/3"][vc_column_text]
+&lt;h2&gt;Our Story&lt;/h2&gt;
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house and commercial builds and we are registered NHBC house builders.[/vc_column_text][vntd_list items="Aliquam fermentum lorem quis posuere mattis.,Sed mollis sapien erat id pellentesque libero.,Pellentesque nisl id semper bibendum." icon="fa fa-heart"][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1502198225522{padding-top: 60px !important;padding-bottom: 60px !important;}"][vc_column][special_heading title="Features" subtitle="What we're great at." c_margin_bottom="60px" add_icon="true" icon_fontawesome="fa fa-flag-o"][vc_row_inner css=".vc_custom_1493381079225{padding-bottom: 30px !important;}"][vc_column_inner width="1/3"][vc_column_text]
+&lt;h5&gt;Facilities&lt;/h5&gt;
+Ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies nisi at scelerisque pellentesque. Nunc feugiat felis vitae aliquet consequat. Aliquam ullamcorper accumsan lectus, a tempor turpis interdum sed. Donec ac faucibus nunc.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
+&lt;h5&gt;Best Equipment&lt;/h5&gt;
+Ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies nisi at scelerisque pellentesque. Nunc feugiat felis vitae aliquet consequat. Aliquam ullamcorper accumsan lectus, a tempor turpis interdum sed. Donec ac faucibus nunc.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
+&lt;h5&gt;Incredible Location&lt;/h5&gt;
+Ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies nisi at scelerisque pellentesque. Nunc feugiat felis vitae aliquet consequat. Aliquam ullamcorper accumsan lectus, a tempor turpis interdum sed. Donec ac faucibus nunc.[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][vc_column_text]
+&lt;h5&gt;Facilities&lt;/h5&gt;
+Ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies nisi at scelerisque pellentesque. Nunc feugiat felis vitae aliquet consequat. Aliquam ullamcorper accumsan lectus, a tempor turpis interdum sed. Donec ac faucibus nunc.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
+&lt;h5&gt;Best Equipment&lt;/h5&gt;
+Ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies nisi at scelerisque pellentesque. Nunc feugiat felis vitae aliquet consequat. Aliquam ullamcorper accumsan lectus, a tempor turpis interdum sed. Donec ac faucibus nunc.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]
+&lt;h5&gt;Incredible Location&lt;/h5&gt;
+Ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies nisi at scelerisque pellentesque. Nunc feugiat felis vitae aliquet consequat. Aliquam ullamcorper accumsan lectus, a tempor turpis interdum sed. Donec ac faucibus nunc.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row parallax="content-moving" color_scheme="white" bg_overlay="dark60" css=".vc_custom_1504786962863{padding-top: 100px !important;padding-bottom: 120px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg?id=540) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][special_heading title="Our Video" subtitle="Learn more about us from this video." c_margin_bottom="50px"][video_lightbox style="img" img="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1450044804117-534ccd6e6a3a.jpg" border="round" link="https://www.youtube.com/watch?v=ty0SGNZi81U"][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1495447264274{padding-top: 75px !important;padding-bottom: 40px !important;}"][vc_column][special_heading title="Our Team" subtitle="Learn more about our fantastic team!" c_margin_bottom="60px" add_icon="true" icon_fontawesome="fa fa-users"][vc_row_inner css=".vc_custom_1495447259772{padding-bottom: 20px !important;}"][vc_column_inner width="1/3"][vntd_person name="John Doe" position="Web Designer" img="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1447789624106-34acdd381c18.jpg" bio="Donec mollis non lectus eu vestibulum. Nunc elementum justo nec iaculis egestas. Fusce eleifend nibh non libero interdum faucibus." boxed="boxed-solid" twitter="#" facebook="#"][/vc_column_inner][vc_column_inner width="1/3"][vntd_person name="Alice Doen" position="Web Developer" img="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1423110041833-0d5dfcc552e1.jpg" bio="Donec mollis non lectus eu vestibulum. Nunc elementum justo nec iaculis egestas. Fusce eleifend nibh non libero interdum faucibus." boxed="boxed-solid" twitter="#" facebook="#"][/vc_column_inner][vc_column_inner width="1/3"][vntd_person name="Bernard Smith" position="Designer" img="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1495698960877-fdafa268c67a.jpg" bio="Donec mollis non lectus eu vestibulum. Nunc elementum justo nec iaculis egestas. Fusce eleifend nibh non libero interdum faucibus." boxed="boxed-solid" twitter="#" facebook="#"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-21 15:41:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-21 15:41:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502197623322{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502198225522{padding-top: 60px !important;padding-bottom: 60px !important;}.vc_custom_1504786962863{padding-top: 100px !important;padding-bottom: 120px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg?id=540) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495447264274{padding-top: 75px !important;padding-bottom: 40px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504786950792{margin-bottom: 0px !important;}.vc_custom_1493381079225{padding-bottom: 30px !important;}.vc_custom_1495447259772{padding-bottom: 20px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502197623322{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502198225522{padding-top: 60px !important;padding-bottom: 60px !important;}.vc_custom_1504786962863{padding-top: 100px !important;padding-bottom: 120px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg?id=540) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495447264274{padding-top: 75px !important;padding-bottom: 40px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504786950792{margin-bottom: 0px !important;}.vc_custom_1493381079225{padding-bottom: 30px !important;}.vc_custom_1495447259772{padding-bottom: 20px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502197623322{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502198225522{padding-top: 60px !important;padding-bottom: 60px !important;}.vc_custom_1504786962863{padding-top: 100px !important;padding-bottom: 120px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg?id=540) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495447264274{padding-top: 75px !important;padding-bottom: 40px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504786950792{margin-bottom: 0px !important;}.vc_custom_1493381079225{padding-bottom: 30px !important;}.vc_custom_1495447259772{padding-bottom: 20px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502197623322{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502198225522{padding-top: 60px !important;padding-bottom: 60px !important;}.vc_custom_1504786962863{padding-top: 100px !important;padding-bottom: 120px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg?id=540) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495447264274{padding-top: 75px !important;padding-bottom: 40px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504786950792{margin-bottom: 0px !important;}.vc_custom_1493381079225{padding-bottom: 30px !important;}.vc_custom_1495447259772{padding-bottom: 20px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502197623322{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502198225522{padding-top: 60px !important;padding-bottom: 60px !important;}.vc_custom_1504786962863{padding-top: 100px !important;padding-bottom: 120px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg?id=540) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495447264274{padding-top: 75px !important;padding-bottom: 40px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504786950792{margin-bottom: 0px !important;}.vc_custom_1493381079225{padding-bottom: 30px !important;}.vc_custom_1495447259772{padding-bottom: 20px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:1:"0";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:104:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1499364615650-ec38552f4f34.jpg";s:2:"id";s:3:"548";s:6:"height";s:3:"800";s:5:"width";s:4:"1920";s:9:"thumbnail";s:112:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1499364615650-ec38552f4f34-150x150.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:13:"center center";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502197623322{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502198225522{padding-top: 60px !important;padding-bottom: 60px !important;}.vc_custom_1504786962863{padding-top: 100px !important;padding-bottom: 120px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg?id=540) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495447264274{padding-top: 75px !important;padding-bottom: 40px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504786950792{margin-bottom: 0px !important;}.vc_custom_1493381079225{padding-bottom: 30px !important;}.vc_custom_1495447259772{padding-bottom: 20px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:102:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/shutterstock_166601417.jpg?id=365";a:1:{s:9:"timestamp";i:1495292456;}s:81:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-7.jpg";i:322;s:89:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-7-800x800.jpg";i:322;s:81:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-8.jpg";i:323;s:89:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-8-600x600.jpg";i:323;s:82:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-11.jpg";i:325;s:90:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-11-600x600.jpg";i:325;s:74:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/4.jpg";i:397;s:82:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/4-600x600.jpg";i:397;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_align]]></wp:meta_key>
+			<wp:meta_value><![CDATA[center]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[420]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Contact</title>
+		<link>http://engage.veented.com/music/contact/</link>
+		<pubDate>Fri, 21 Apr 2017 15:41:42 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?page_id=18</guid>
+		<description/>
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1486489195441{padding-top: 100px !important;padding-bottom: 45px !important;}"][vc_column width="2/3" col_padding="2" col_padding_side="right"][vc_column_text]
+<h4>Contact Form</h4>
+[/vc_column_text][engage_contact_form id="91"][/vc_column][vc_column width="1/3" col_padding="2" col_padding_side="left"][vc_column_text css=".vc_custom_1502985468750{margin-bottom: 18px !important;}"]
+<h4>Contact Information</h4>
+I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+
+Our contact details:[/vc_column_text][vntd_icon_list icons_color="accent" elements="%5B%7B%22icon_fontawesome%22%3A%22fa%20fa-map-o%22%2C%22text%22%3A%22Manchester%20St%20123-78B%2C%20Random%207854MD%2C%20UK%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-phone%22%2C%22text%22%3A%22%2B46%20123%20456%20789%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-headphones%22%2C%22text%22%3A%22%2B37%20431%20456%20789%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-envelope-o%22%2C%22text%22%3A%22hello%40sitename.com%22%7D%5D" border="off"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column][vntd_gmap height="640" map_style="dark" markers="%5B%7B%22title%22%3A%22Map%20Marker%22%2C%22text%22%3A%22This%20is%20an%20example%20marker%20description.%22%2C%22color%22%3A%22red%22%2C%22location%22%3A%22center%22%2C%22location_custom%22%3A%2241.863774%2C-87.721328%22%7D%2C%7B%22title%22%3A%22Secondary%20Marker%22%2C%22text%22%3A%22Another%20description%22%2C%22color%22%3A%22indigo%22%2C%22location%22%3A%22custom%22%2C%22location_custom%22%3A%2240.7302327%2C-74.0100041%22%7D%2C%7B%22title%22%3A%22Third%20Marker%22%2C%22text%22%3A%22You%20may%20add%20as%20many%20markers%20to%20your%20map%20as%20you%20wish!%22%2C%22color%22%3A%22teal%22%2C%22location%22%3A%22custom%22%2C%22location_custom%22%3A%2240.7164271%2C-73.9662167%22%7D%5D" marker1_color="teal" marker2_title="Secondary Marker"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-21 15:41:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-21 15:41:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1486489195441{padding-top: 100px !important;padding-bottom: 45px !important;}.vc_custom_1502985468750{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1486489195441{padding-top: 100px !important;padding-bottom: 45px !important;}.vc_custom_1502985468750{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1486489195441{padding-top: 100px !important;padding-bottom: 45px !important;}.vc_custom_1502985468750{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1486489195441{padding-top: 100px !important;padding-bottom: 45px !important;}.vc_custom_1502985468750{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1486489195441{padding-top: 100px !important;padding-bottom: 45px !important;}.vc_custom_1502985468750{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:104:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465.jpg";s:2:"id";s:3:"544";s:6:"height";s:3:"800";s:5:"width";s:4:"1920";s:9:"thumbnail";s:112:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465-150x150.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1486489195441{padding-top: 100px !important;padding-bottom: 45px !important;}.vc_custom_1502985468750{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Drop us a message!]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[360]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_align]]></wp:meta_key>
+			<wp:meta_value><![CDATA[center]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Blog</title>
+		<link>http://engage.veented.com/music/blog/</link>
+		<pubDate>Fri, 21 Apr 2017 15:41:54 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?page_id=20</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-21 15:41:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-21 15:41:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:104:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465.jpg";s:2:"id";s:3:"544";s:6:"height";s:3:"800";s:5:"width";s:4:"1920";s:9:"thumbnail";s:112:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465-150x150.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:13:"center center";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark20]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>New Album</title>
+		<link>http://engage.veented.com/music/portfolio/new-album/</link>
+		<pubDate>Mon, 24 Apr 2017 15:46:06 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/wedding/?post_type=portfolio&amp;p=139</guid>
+		<description/>
+		<content:encoded><![CDATA[<h3>About the Album</h3>
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has rootsin piece of classical Latin literature from old. Richard McClintock, a Latin profes sor at Hampden-Sydney College in Virginia, looked up.
+
+Aenean mattis suscipit ipsum gravida cursus. Aliquam varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis vel leo dignissim.
+
+Varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis vel leo dignissim. Aenean mattis suscipit ipsum gravida cursus. Aliquam varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>139</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-24 15:46:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-24 15:46:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[new-album]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="portfolio-category" nicename="buildings"><![CDATA[Buildings]]></category>
+		<category domain="portfolio-skills" nicename="concrete"><![CDATA[Concrete]]></category>
+		<category domain="portfolio-skills" nicename="elevators"><![CDATA[Elevators]]></category>
+		<category domain="portfolio-category" nicename="public"><![CDATA[Public]]></category>
+		<category domain="portfolio-skills" nicename="steel"><![CDATA[Steel]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_gallery_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[list]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[link_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_user_liked]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:6:"user-1";i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_post_like_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_project_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_details_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_client]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Law School]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[04/13/2017]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_budget]]></wp:meta_key>
+			<wp:meta_value><![CDATA[$50.000]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_extra1_value]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_display_skills]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[446,448,449]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[494]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_external_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_post_excerpt]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Our Work</title>
+		<link>http://engage.veented.com/music/our-work/</link>
+		<pubDate>Mon, 24 Apr 2017 15:57:08 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/wedding/?page_id=142</guid>
+		<description/>
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1504785632435{padding-top: 90px !important;padding-bottom: 60px !important;}"][vc_column][portfolio_grid item_style="caption_overlay" item_caption_position="bottom_left" filter="no"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-24 15:57:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-24 15:57:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[our-work]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1504785632435{padding-top: 90px !important;padding-bottom: 60px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:47:"http://source.unsplash.com/sqJ4tLBiurw/1920x700";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1504785632435{padding-top: 90px !important;padding-bottom: 60px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[480]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_align]]></wp:meta_key>
+			<wp:meta_value><![CDATA[center]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Our latest albums are here.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home</title>
+		<link>http://engage.veented.com/music/</link>
+		<pubDate>Tue, 25 Apr 2017 13:19:41 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/gym/?page_id=189</guid>
+		<description/>
+		<content:encoded>[vc_row color_scheme="white" css=".vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vntd_hero_section top_heading="Welcome to" heading="Music Company" subtitle="We're the biggest, best equipped and most advanced building company in the greater Las Vegas area. " btn1_label="Learn More" scroll_btn="true" images="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229538611-16ba8c7ffbd7.jpg" bg_overlay="dark30" height="custom" height_custom="800px" content_width="narrow" content_offset="40px" heading_fs="76px" heading_tt="normal" subtitle_fs="22px" btn1_style="solid" btn1_url="http://engage.veented.com/music/about/"][/vc_column][/vc_row][vc_row css=".vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}"][vc_column width="1/4"][icon_box title="Professional Staff" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-users"][/vc_column][vc_column width="1/4"][icon_box title="Great Locations" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-map-o"][/vc_column][vc_column width="1/4"][icon_box title="Fast Results" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-signal"][/vc_column][vc_column width="1/4"][icon_box title="Satisfied Clients" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-thumbs-o-up"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1502195175420{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_column_text css=".vc_custom_1494851946125{margin-bottom: 18px !important;}"]
+&lt;h2&gt;What is our goal?&lt;/h2&gt;
+[/vc_column_text][vc_column_text font_size="medium"]
+&lt;p class="p1"&gt;Aliquam imperdiet egestas nisi ultrices tristique. Maecenas vestibulum rutrum luctus. Quisque at viverra felis. Aliquam pharetra lacus non sem ullamcorper tempus. Donec quis commodo ligula, eu aliquet elit.&lt;/p&gt;
+[/vc_column_text][vc_column_text css=".vc_custom_1494852050796{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Premium Support&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt. Cras auctor consectetur pharetra.&lt;/p&gt;
+[/vc_column_text][vc_column_text css=".vc_custom_1494852172479{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Satisfied Clients&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt. Cras auctor consectetur pharetra.&lt;/p&gt;
+[/vc_column_text][vc_column_text css=".vc_custom_1494852136754{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Powerful Features&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt. Cras auctor consectetur pharetra.&lt;/p&gt;
+[/vc_column_text][/vc_column][vc_column width="1/2" col_padding="1" col_padding_side="left"][vc_single_image image="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1496596634762-c92dca7d13a4-800x820.jpg" img_size="800x820" css=".vc_custom_1504786628598{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row parallax="content-moving" parallax_speed_bg="1.4" color_scheme="white" bg_overlay="dark40" css=".vc_custom_1504786661269{padding-top: 80px !important;padding-bottom: 70px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1491339526372-c7112c8e37f3.jpg?id=545) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][special_heading title="What's special about us?" c_margin_bottom="65px"][vc_row_inner css=".vc_custom_1494851314158{margin-bottom: 30px !important;}"][vc_column_inner width="1/3"][icon_box title="Powerful Options" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-params"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Responsive Design" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-display"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Satisfied Clients" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="aligned-left-basic" icon_type="linecons"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][icon_box title="Premium Support" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-news"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Extensive Documentation" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-study"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Free Updates" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-paperplane"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1502196603963{padding-top: 70px !important;padding-bottom: 70px !important;}"][vc_column][special_heading title="Our Pieces" subtitle="You are going to love those." c_margin_bottom="60px"][portfolio_grid item_style="minimal" posts_nr="6" filter="no"][vntd_button label="See More" align="center" icon_enabled="yes" icon_fontawesome="fa fa-long-arrow-right" icon_style="right_side" margin_top="55px"][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1502195576722{padding-top: 65px !important;padding-bottom: 70px !important;}"][vc_column][special_heading title="Latest News" c_margin_bottom="55px"][blog_carousel style="boxed_solid" thumb="disable" bullet_nav="" autoplay_timeout="8000"][vntd_button label="Visit our Blog" align="center" icon_enabled="yes" icon_fontawesome="fa fa-long-arrow-right" icon_style="right_side" margin_top="55px"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>189</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-25 13:19:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-25 13:19:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1502195175420{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1504786661269{padding-top: 80px !important;padding-bottom: 70px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1491339526372-c7112c8e37f3.jpg?id=545) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502196603963{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1502195576722{padding-top: 65px !important;padding-bottom: 70px !important;}.vc_custom_1494851946125{margin-bottom: 18px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1504786628598{margin-bottom: 0px !important;}.vc_custom_1494851314158{margin-bottom: 30px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1502195175420{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1504786661269{padding-top: 80px !important;padding-bottom: 70px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1491339526372-c7112c8e37f3.jpg?id=545) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502196603963{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1502195576722{padding-top: 65px !important;padding-bottom: 70px !important;}.vc_custom_1494851946125{margin-bottom: 18px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1504786628598{margin-bottom: 0px !important;}.vc_custom_1494851314158{margin-bottom: 30px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1502195175420{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1504786661269{padding-top: 80px !important;padding-bottom: 70px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1491339526372-c7112c8e37f3.jpg?id=545) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502196603963{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1502195576722{padding-top: 65px !important;padding-bottom: 70px !important;}.vc_custom_1494851946125{margin-bottom: 18px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1504786628598{margin-bottom: 0px !important;}.vc_custom_1494851314158{margin-bottom: 30px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:1:"0";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1502195175420{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1504786661269{padding-top: 80px !important;padding-bottom: 70px !important;background-image: url(http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1491339526372-c7112c8e37f3.jpg?id=545) !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502196603963{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1502195576722{padding-top: 65px !important;padding-bottom: 70px !important;}.vc_custom_1494851946125{margin-bottom: 18px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1504786628598{margin-bottom: 0px !important;}.vc_custom_1494851314158{margin-bottom: 30px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:102:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/shutterstock_166601417.jpg?id=365";a:1:{s:9:"timestamp";i:1495448550;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Events</title>
+		<link>http://engage.veented.com/music/events/</link>
+		<pubDate>Tue, 25 Apr 2017 13:34:07 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/?page_id=198</guid>
+		<description/>
+		<content:encoded>[vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1493394207200{padding-top: 80px !important;padding-bottom: 80px !important;}"][vc_column width="1/2" css=".vc_custom_1486050169012{padding-right: 50px !important;}"][vc_single_image image="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1470229722913-7c0e2dbbafd3-800x740.jpg" img_size="800x740" css_animation="none" frame="" css=".vc_custom_1504787228588{margin-bottom: 0px !important;}"][/vc_column][vc_column width="1/2"][vc_column_text css=".vc_custom_1502200053759{margin-bottom: 25px !important;}"]
+&lt;h3&gt;Montreal&lt;/h3&gt;
+&lt;p class="p1"&gt;Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at.&lt;/p&gt;
+[/vc_column_text][vntd_list items="Aliquam fermentum lorem quis posuere mattis.,Sed mollis sapien erat id pellentesque libero.,Pellentesque nisl id semper bibendum.,Commodo risus justo vitae nibh. " icon="fa fa-check"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1493394212258{padding-top: 80px !important;padding-bottom: 85px !important;}"][vc_column width="1/2" col_padding="5" col_padding_side="right"][vc_column_text]
+&lt;h3&gt;San Francisco&lt;/h3&gt;
+&lt;p class="p1"&gt;Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at. Vivamus finibus laoreet tristique.&lt;/p&gt;
+[/vc_column_text][vntd_list items="Aliquam fermentum lorem quis posuere mattis.,Sed mollis sapien erat id pellentesque libero.,Pellentesque nisl id semper bibendum.,Commodo risus justo vitae nibh. " icon="fa fa-check"][/vc_column][vc_column width="1/2"][vc_single_image image="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1474692295473-66ba4d54e0d3-800x740.jpg" img_size="800x740" css_animation="none" frame="" css=".vc_custom_1504787236595{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1493394217746{padding-top: 80px !important;padding-bottom: 80px !important;}"][vc_column width="1/2" css=".vc_custom_1486050169012{padding-right: 50px !important;}"][vc_single_image image="http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1496596634762-c92dca7d13a4-800x740.jpg" img_size="800x740" css_animation="none" frame="" css=".vc_custom_1504787244382{margin-bottom: 0px !important;}"][/vc_column][vc_column width="1/2"][vc_column_text css=".vc_custom_1493394096481{margin-bottom: 25px !important;}"]
+&lt;h3&gt;Portland&lt;/h3&gt;
+&lt;p class="p1"&gt;Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at.&lt;/p&gt;
+[/vc_column_text][vntd_list items="Aliquam fermentum lorem quis posuere mattis.,Sed mollis sapien erat id pellentesque libero.,Pellentesque nisl id semper bibendum.,Commodo risus justo vitae nibh. " icon="fa fa-check"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" parallax="content-moving" parallax_speed_bg="1.3" bg_overlay="dark50" bg_gradient1="#f3485a" bg_gradient2="#996ec1" css=".vc_custom_1502200292363{padding-top: 65px !important;padding-bottom: 55px !important;}"][vc_column css=".vc_custom_1482168085083{padding-top: 0px !important;}"][cta heading="Book your tickets now" subheading="And get a 10% discount with the coupon code." button1_title="Book Now" container="contain" align="center" button1_color="white" button1_style="solid" el_bg="none" button1_url="http://engage.veented.com/music" bg_color="none"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>198</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-25 13:34:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-25 13:34:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[events]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1493394207200{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1493394212258{padding-top: 80px !important;padding-bottom: 85px !important;}.vc_custom_1493394217746{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1502200292363{padding-top: 65px !important;padding-bottom: 55px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787228588{margin-bottom: 0px !important;}.vc_custom_1502200053759{margin-bottom: 25px !important;}.vc_custom_1504787236595{margin-bottom: 0px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787244382{margin-bottom: 0px !important;}.vc_custom_1493394096481{margin-bottom: 25px !important;}.vc_custom_1482168085083{padding-top: 0px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1493394207200{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1493394212258{padding-top: 80px !important;padding-bottom: 85px !important;}.vc_custom_1493394217746{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1502200292363{padding-top: 65px !important;padding-bottom: 55px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787228588{margin-bottom: 0px !important;}.vc_custom_1502200053759{margin-bottom: 25px !important;}.vc_custom_1504787236595{margin-bottom: 0px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787244382{margin-bottom: 0px !important;}.vc_custom_1493394096481{margin-bottom: 25px !important;}.vc_custom_1482168085083{padding-top: 0px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1493394207200{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1493394212258{padding-top: 80px !important;padding-bottom: 85px !important;}.vc_custom_1493394217746{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1502200292363{padding-top: 65px !important;padding-bottom: 55px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787228588{margin-bottom: 0px !important;}.vc_custom_1502200053759{margin-bottom: 25px !important;}.vc_custom_1504787236595{margin-bottom: 0px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787244382{margin-bottom: 0px !important;}.vc_custom_1493394096481{margin-bottom: 25px !important;}.vc_custom_1482168085083{padding-top: 0px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:104:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1473968217939-ab9d99b2eacb.jpg";s:2:"id";s:3:"542";s:6:"height";s:3:"800";s:5:"width";s:4:"1920";s:9:"thumbnail";s:112:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1473968217939-ab9d99b2eacb-150x150.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:13:"center center";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark10]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1493394207200{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1493394212258{padding-top: 80px !important;padding-bottom: 85px !important;}.vc_custom_1493394217746{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1502200292363{padding-top: 65px !important;padding-bottom: 55px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787228588{margin-bottom: 0px !important;}.vc_custom_1502200053759{margin-bottom: 25px !important;}.vc_custom_1504787236595{margin-bottom: 0px !important;}.vc_custom_1486050169012{padding-right: 50px !important;}.vc_custom_1504787244382{margin-bottom: 0px !important;}.vc_custom_1493394096481{margin-bottom: 25px !important;}.vc_custom_1482168085083{padding-top: 0px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_align]]></wp:meta_key>
+			<wp:meta_value><![CDATA[center]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[480]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Join</title>
+		<link>http://engage.veented.com/music/join/</link>
+		<pubDate>Fri, 28 Apr 2017 14:50:31 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/?page_id=314</guid>
+		<description/>
+		<content:encoded><![CDATA[[vc_row css=".vc_custom_1495285974023{padding-top: 60px !important;padding-bottom: 40px !important;}"][vc_column][vc_row_inner][vc_column_inner width="1/4"][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]
+<h2 style="text-align: center;">Submit a form</h2>
+<p class="p1" style="text-align: center;">Donec quis rhoncus augue. In fermentum eget neque tristique scelerisque. Morbi at elementum nisi. Quisque pellentesque at enim vitae bibendum. Aliquam imperdiet egestas nisi ultrices tristique. Maecenas vestibulum rutrum.</p>
+[/vc_column_text][contact-form-7 id="350"][/vc_column_inner][vc_column_inner width="1/4"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1495286011118{padding-top: 90px !important;padding-bottom: 60px !important;}"][vc_column][vc_row_inner][vc_column_inner width="1/3"][pricing_box title="Simple" price="$39" features="Super package feature 1,Super package feature 2,Super package feature 3,Super package feature 4" bg="white"][/vc_column_inner][vc_column_inner width="1/3"][pricing_box title="Classic" price="$49" features="Super package feature 1,Super package feature 2,Super package feature 3,Super package feature 4" featured="yes" bg="white"][/vc_column_inner][vc_column_inner width="1/3"][pricing_box title="Premium" price="$69" features="Super package feature 1,Super package feature 2,Super package feature 3,Super package feature 4" bg="white"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1493399547460{padding-top: 70px !important;padding-bottom: 40px !important;}"][vc_column width="1/4"][icon_box title="Professional Staff" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit." style="centered-circle" icon_fontawesome="fa fa-users"][/vc_column][vc_column width="1/4"][icon_box title="Great Locations" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit." style="centered-circle" icon_fontawesome="fa fa-map-o"][/vc_column][vc_column width="1/4"][icon_box title="Fast Results" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit." style="centered-circle" icon_fontawesome="fa fa-signal"][/vc_column][vc_column width="1/4"][icon_box title="Satisfied Clients" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit." style="centered-circle" icon_fontawesome="fa fa-thumbs-o-up"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>314</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-28 14:50:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-28 14:50:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[join]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1495285974023{padding-top: 60px !important;padding-bottom: 40px !important;}.vc_custom_1495286011118{padding-top: 90px !important;padding-bottom: 60px !important;}.vc_custom_1493399547460{padding-top: 70px !important;padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1495285974023{padding-top: 60px !important;padding-bottom: 40px !important;}.vc_custom_1495286011118{padding-top: 90px !important;padding-bottom: 60px !important;}.vc_custom_1493399547460{padding-top: 70px !important;padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1495285974023{padding-top: 60px !important;padding-bottom: 40px !important;}.vc_custom_1495286011118{padding-top: 90px !important;padding-bottom: 60px !important;}.vc_custom_1493399547460{padding-top: 70px !important;padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:74:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/4.jpg";s:2:"id";s:3:"397";s:6:"height";s:4:"1280";s:5:"width";s:4:"1920";s:9:"thumbnail";s:74:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/4.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark10]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1495285974023{padding-top: 60px !important;padding-bottom: 40px !important;}.vc_custom_1495286011118{padding-top: 90px !important;padding-bottom: 60px !important;}.vc_custom_1493399547460{padding-top: 70px !important;padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Let's train together!]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://engage.veented.com/music/2017/04/28/352/</link>
+		<pubDate>Fri, 28 Apr 2017 16:40:24 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/2017/04/28/352/</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>352</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-28 16:40:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-28 16:40:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[352]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="site-navigation"><![CDATA[Site Navigation]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://engage.veented.com/music/2017/04/28/353/</link>
+		<pubDate>Fri, 28 Apr 2017 16:40:24 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/2017/04/28/353/</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>353</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-28 16:40:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-28 16:40:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[353]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="site-navigation"><![CDATA[Site Navigation]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://engage.veented.com/music/2017/04/28/354/</link>
+		<pubDate>Fri, 28 Apr 2017 16:40:24 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/2017/04/28/354/</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>354</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-28 16:40:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-28 16:40:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[354]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="site-navigation"><![CDATA[Site Navigation]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://engage.veented.com/music/2017/04/28/361/</link>
+		<pubDate>Fri, 28 Apr 2017 16:40:24 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/2017/04/28/361/</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>361</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-28 16:40:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-28 16:40:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[361]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="site-navigation"><![CDATA[Site Navigation]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[189]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://engage.veented.com/music/2017/04/28/364/</link>
+		<pubDate>Fri, 28 Apr 2017 16:40:24 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/2017/04/28/364/</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>364</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-28 16:40:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-28 16:40:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[364]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="site-navigation"><![CDATA[Site Navigation]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[198]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Unique Album</title>
+		<link>http://engage.veented.com/music/portfolio/unique-album/</link>
+		<pubDate>Mon, 22 May 2017 16:11:47 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/construction/?post_type=portfolio&amp;p=450</guid>
+		<description/>
+		<content:encoded><![CDATA[<h3>About the Album</h3>
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has rootsin piece of classical Latin literature from old. Richard McClintock, a Latin profes sor at Hampden-Sydney College in Virginia, looked up.
+
+Aenean mattis suscipit ipsum gravida cursus. Aliquam varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis vel leo dignissim.
+
+Varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis vel leo dignissim. Aenean mattis suscipit ipsum gravida cursus. Aliquam varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>450</wp:post_id>
+		<wp:post_date><![CDATA[2017-05-22 16:11:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-05-22 16:11:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[unique-album]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="portfolio-category" nicename="buildings"><![CDATA[Buildings]]></category>
+		<category domain="portfolio-skills" nicename="concrete"><![CDATA[Concrete]]></category>
+		<category domain="portfolio-skills" nicename="elevators"><![CDATA[Elevators]]></category>
+		<category domain="portfolio-category" nicename="public"><![CDATA[Public]]></category>
+		<category domain="portfolio-skills" nicename="steel"><![CDATA[Steel]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_gallery_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[list]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[link_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_user_liked]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:6:"user-1";i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_post_like_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_project_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_details_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_client]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Law School]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[04/13/2017]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_budget]]></wp:meta_key>
+			<wp:meta_value><![CDATA[$50.000]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_extra1_value]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_display_skills]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[446,448,449]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[496]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_external_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_post_excerpt]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Powerful Album</title>
+		<link>http://engage.veented.com/music/portfolio/powerful-album/</link>
+		<pubDate>Mon, 22 May 2017 16:12:14 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/construction/?post_type=portfolio&amp;p=451</guid>
+		<description/>
+		<content:encoded><![CDATA[<h3>About the album</h3>
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has rootsin piece of classical Latin literature from old. Richard McClintock, a Latin profes sor at Hampden-Sydney College in Virginia, looked up.
+
+Aenean mattis suscipit ipsum gravida cursus. Aliquam varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis vel leo dignissim.
+
+Varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis vel leo dignissim. Aenean mattis suscipit ipsum gravida cursus. Aliquam varius, nisl sollicitudin viverra pellentesque, felis velit dapibus velit, non lobortis dui metus quis turpis. Fusce et turpis.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>451</wp:post_id>
+		<wp:post_date><![CDATA[2017-05-22 16:12:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-05-22 16:12:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[powerful-album]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="portfolio-category" nicename="buildings"><![CDATA[Buildings]]></category>
+		<category domain="portfolio-skills" nicename="concrete"><![CDATA[Concrete]]></category>
+		<category domain="portfolio-skills" nicename="elevators"><![CDATA[Elevators]]></category>
+		<category domain="portfolio-category" nicename="houses"><![CDATA[Houses]]></category>
+		<category domain="portfolio-skills" nicename="steel"><![CDATA[Steel]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_gallery_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[list]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[link_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_user_liked]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:6:"user-1";i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_post_like_count]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_project_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_details_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_client]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Law School]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_date]]></wp:meta_key>
+			<wp:meta_value><![CDATA[04/13/2017]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_budget]]></wp:meta_key>
+			<wp:meta_value><![CDATA[$50.000]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_extra1_value]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_display_skills]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_link]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_gallery]]></wp:meta_key>
+			<wp:meta_value><![CDATA[446,448,449]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[495]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_external_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[portfolio_post_excerpt]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title/>
+		<link>http://engage.veented.com/music/2017/05/22/456/</link>
+		<pubDate>Mon, 22 May 2017 16:15:08 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/construction/?p=456</guid>
+		<description/>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>456</wp:post_id>
+		<wp:post_date><![CDATA[2017-05-22 16:15:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-05-22 16:15:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[456]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="site-navigation"><![CDATA[Site Navigation]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[142]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	
+	
+	<item>
+		<title>photo-1496596634762-c92dca7d13a4</title>
+		<link>http://engage.veented.com/music/home-3/photo-1496596634762-c92dca7d13a4/</link>
+		<pubDate>Thu, 07 Sep 2017 12:16:08 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1496596634762-c92dca7d13a4.jpg</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>547</wp:post_id>
+		<wp:post_date><![CDATA[2017-09-07 12:16:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-09-07 12:16:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[photo-1496596634762-c92dca7d13a4]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>189</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1496596634762-c92dca7d13a4.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/04/photo-1496596634762-c92dca7d13a4.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1200;s:4:"file";s:44:"2017/04/photo-1496596634762-c92dca7d13a4.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-300x188.jpg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-768x480.jpg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"photo-1496596634762-c92dca7d13a4-1024x640.jpg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-wide";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-900x470.jpg";s:5:"width";i:900;s:6:"height";i:470;s:9:"mime-type";s:10:"image/jpeg";}s:21:"engage-masonry-square";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:22:"engage-masonry-regular";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-600x420.jpg";s:5:"width";i:600;s:6:"height";i:420;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-masonry-auto";a:4:{s:4:"file";s:44:"photo-1496596634762-c92dca7d13a4-600x375.jpg";s:5:"width";i:600;s:6:"height";i:375;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>photo-1499364615650-ec38552f4f34</title>
+		<link>http://engage.veented.com/music/home-3/photo-1499364615650-ec38552f4f34/</link>
+		<pubDate>Thu, 07 Sep 2017 12:16:10 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1499364615650-ec38552f4f34.jpg</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>548</wp:post_id>
+		<wp:post_date><![CDATA[2017-09-07 12:16:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-09-07 12:16:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[photo-1499364615650-ec38552f4f34]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>189</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1499364615650-ec38552f4f34.jpg]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2017/04/photo-1499364615650-ec38552f4f34.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:800;s:4:"file";s:44:"2017/04/photo-1499364615650-ec38552f4f34.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-300x125.jpg";s:5:"width";i:300;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-768x320.jpg";s:5:"width";i:768;s:6:"height";i:320;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"photo-1499364615650-ec38552f4f34-1024x427.jpg";s:5:"width";i:1024;s:6:"height";i:427;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-wide";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-900x470.jpg";s:5:"width";i:900;s:6:"height";i:470;s:9:"mime-type";s:10:"image/jpeg";}s:21:"engage-masonry-square";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:22:"engage-masonry-regular";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-600x420.jpg";s:5:"width";i:600;s:6:"height";i:420;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-masonry-auto";a:4:{s:4:"file";s:44:"photo-1499364615650-ec38552f4f34-600x250.jpg";s:5:"width";i:600;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:19:"engage-sidebar-auto";a:4:{s:4:"file";s:41:"photo-1499364615650-ec38552f4f34-900x.jpg";s:5:"width";i:900;s:6:"height";i:375;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Testimonial 1</title>
+		<link>http://engage.veented.com/music/testimonials/testimonial-1/</link>
+		<pubDate>Fri, 21 Apr 2017 17:04:54 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?post_type=testimonials&amp;p=34</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-21 17:04:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-21 17:04:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonial-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="testimonials-category" nicename="general"><![CDATA[General]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[testimonial_content]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Formas humanitatis per seacula quarta decima et quinta decima. Modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum quarta decima et quinta decima.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[John Smith]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[position]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Microsoft]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:81:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-9.jpg";i:324;s:89:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-9-800x760.jpg";i:324;s:82:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-11.jpg";i:325;s:90:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/square-11-800x740.jpg";i:325;s:95:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/shutterstock_166601417.jpg";i:365;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Testimonial 2</title>
+		<link>http://engage.veented.com/music/testimonials/testimonial-2/</link>
+		<pubDate>Fri, 21 Apr 2017 17:05:12 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?post_type=testimonials&amp;p=35</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-21 17:05:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-21 17:05:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonial-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="testimonials-category" nicename="general"><![CDATA[General]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[testimonial_content]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Humanitatis per seacula quarta decima et quinta decima. Modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum quarta decima. Modo typi quartasab.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Britney Doe]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[position]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Google]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Testimonial 3</title>
+		<link>http://engage.veented.com/music/testimonials/testimonial-3/</link>
+		<pubDate>Fri, 21 Apr 2017 17:05:32 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?post_type=testimonials&amp;p=36</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-21 17:05:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-21 17:05:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonial-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="testimonials-category" nicename="general"><![CDATA[General]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[testimonial_content]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Per seacula quarta decima et quinta decima. Modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum quarta decima. Lorem ipsum dolorum have a great day.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Michael Moore]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[position]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Apple]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Quote Post</title>
+		<link>http://engage.veented.com/music/2017/04/22/quote-post/</link>
+		<pubDate>Sat, 22 Apr 2017 13:25:37 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?p=94</guid>
+		<description/>
+		<content:encoded></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>94</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-22 13:25:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-22 13:25:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[quote-post]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="classes"><![CDATA[Classes]]></category>
+		<category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_quote_content]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_quote_author]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Albert Einstein]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_audio_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Basic Post</title>
+		<link>http://engage.veented.com/music/2017/04/22/basic-post/</link>
+		<pubDate>Sat, 22 Apr 2017 13:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?p=97</guid>
+		<description/>
+		<content:encoded></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>97</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-22 13:27:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-22 13:27:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[basic-post]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="classes"><![CDATA[Classes]]></category>
+		<category domain="post_tag" nicename="peace"><![CDATA[Peace]]></category>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+		<category domain="post_tag" nicename="yoga-class"><![CDATA[Yoga Class]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_audio_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[544]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Audio Post</title>
+		<link>http://engage.veented.com/music/2017/06/22/audio-post/</link>
+		<pubDate>Thu, 22 Jun 2017 13:28:28 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?p=99</guid>
+		<description/>
+		<content:encoded></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>99</wp:post_id>
+		<wp:post_date><![CDATA[2017-06-22 13:28:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-06-22 13:28:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[audio-post]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+		<category domain="post_format" nicename="post-format-audio"><![CDATA[Audio]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:104:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1499364615650-ec38552f4f34.jpg";s:2:"id";s:3:"548";s:6:"height";s:3:"800";s:5:"width";s:4:"1920";s:9:"thumbnail";s:112:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1499364615650-ec38552f4f34-150x150.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:13:"center center";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_audio_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[gallery-post]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[548]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_audio_source]]></wp:meta_key>
+			<wp:meta_value><![CDATA[external]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_audio_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[http://engage.veented.com/wp-content/uploads/2017/09/piano.mp3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark10]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Incredible Video</title>
+		<link>http://engage.veented.com/music/2017/04/22/incredible-video/</link>
+		<pubDate>Sat, 22 Apr 2017 13:30:22 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?p=101</guid>
+		<description/>
+		<content:encoded></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>101</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-22 13:30:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-22 13:30:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[incredible-video]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="classes"><![CDATA[Classes]]></category>
+		<category domain="post_tag" nicename="peace"><![CDATA[Peace]]></category>
+		<category domain="category" nicename="video"><![CDATA[Video]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+		<category domain="post_tag" nicename="yoga-class"><![CDATA[Yoga Class]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_video_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=FuwzZDvuERc]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_audio_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[494]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Simple Post</title>
+		<link>http://engage.veented.com/music/2017/04/22/cool-tips/</link>
+		<pubDate>Sat, 22 Apr 2017 13:31:12 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/yoga/?p=103</guid>
+		<description/>
+		<content:encoded><![CDATA[Contrary to popular belief, Lorem Ipsum isn't simply random text. It has roots in Virginia Contrary piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia
+
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>103</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-22 13:31:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-22 13:31:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[cool-tips]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="classes"><![CDATA[Classes]]></category>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_6d3a0652689f0f8415dcfaf28b2949f8]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<iframe width="500" height="281" src="https://www.youtube.com/embed/qy_oIKf1ByM?feature=oembed" frameborder="0" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_oembed_time_6d3a0652689f0f8415dcfaf28b2949f8]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1492867846]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_video_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:104:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465.jpg";s:2:"id";s:3:"544";s:6:"height";s:3:"800";s:5:"width";s:4:"1920";s:9:"thumbnail";s:112:"http://engage.veented.com/music/wp-content/uploads/sites/28/2017/04/photo-1478800907959-cd1621fbd465-150x150.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[format_audio_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark10]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[547]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Phil]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[prafgon@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url/>
+			<wp:comment_author_IP><![CDATA[193.239.58.99]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2017-04-22 13:32:02]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2017-04-22 13:32:02]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Wow, I love this post! Thanks for the information!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[_wxr_import_user]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Testimonial 4</title>
+		<link>http://engage.veented.com/music/testimonials/testimonial-3-2/</link>
+		<pubDate>Fri, 28 Apr 2017 11:03:46 +0000</pubDate>
+		<dc:creator><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/fitness/?post_type=testimonials&amp;p=223</guid>
+		<description/>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>223</wp:post_id>
+		<wp:post_date><![CDATA[2017-04-28 11:03:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-04-28 11:03:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[testimonial-3-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[testimonials]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="testimonials-category" nicename="general"><![CDATA[General]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[testimonial_content]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Per seacula quarta decima et quinta decima. Modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum quarta decima. Lorem ipsum dolorum have a great day.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Steve Morris]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[position]]></wp:meta_key>
+			<wp:meta_value><![CDATA[FashionTop]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>

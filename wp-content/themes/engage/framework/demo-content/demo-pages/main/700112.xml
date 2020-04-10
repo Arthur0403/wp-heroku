@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>Services</title>
+		<link>http://www.engage.veented.com/demomain/services/</link>
+		<pubDate>Thu, 06 Jul 2017 14:27:37 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/?page_id=112</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">[vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1494851871081{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="7/12" col_padding="2" col_padding_side="right"][vc_column_text css=".vc_custom_1505387060746{margin-bottom: 18px !important;}"]
+&lt;h3&gt;What do we offer?&lt;/h3&gt;
+[/vc_column_text][vc_column_text font_size="medium"]
+&lt;p class="p1"&gt;Aliquam imperdiet egestas nisi ultrices tristique. Maecenas vestibulum rutrum luctus. Quisque at viverra felis. Aliquam pharetra lacus non sem ullamcorper tempus. Donec quis commodo ligula, eu aliquet elit.&lt;/p&gt;
+[/vc_column_text][vc_row_inner css=".vc_custom_1494852056203{padding-top: 20px !important;}"][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852050796{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Premium Support&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852136754{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Powerful Features&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1494852056203{padding-top: 20px !important;}"][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852172479{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Satisfied Clients&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852189991{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Flexible Options&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="5/12" col_padding="1" col_padding_side="left"][vc_single_image image="http://engage.veented.com/demo-main/wp-content/uploads/sites/104/2017/09/full-5-800x860.jpg" img_size="800x860" css=".vc_custom_1505387091639{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1499353277766{padding-top: 60px !important;padding-bottom: 20px !important;}"][vc_column col_padding_side="right" css=".vc_custom_1493057150253{padding-bottom: 15px !important;}"][vc_tta_tabs style="engage_boxed" alignment="center" active_section="1" css=".vc_custom_1493993219194{padding-top: 30px !important;}"][vc_tta_section title="Our Goal" tab_id="1493993374428-f20ac2e4-09e0"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nisl diam, vitae consequat massa lacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbi mattis, turpis quis volutpat fermentum, lacus ante sagittis eros, vitae imperdiet leo felis ut ligula. Nulla sollicitudin lorem quis tempor mattis. Maecenas tincidunt nibh a velit dapibus gravida. Aliquam nisi enim, viverra eu nulla sed, fermentum volutpat dui. Nulla sollicitudin lorem quis.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nisl diam, vitae consequat massa lacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbi mattis, turpis quis volutpat fermentum, lacus ante sagittis eros, vitae imperdiet leo felis ut ligula. Nulla sollicitudin lorem quis tempor mattis. Maecenas tincidunt nibh a velit dapibus gravida. Aliquam nisi enim, viverra eu nulla sed, fermentum volutpat dui. Nulla sollicitudin lorem quis.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][vc_tta_section title="Our Methods" tab_id="1493993375240-ab8ae6ec-c461"][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nisl diam, vitae consequat massa lacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbi mattis, turpis quis volutpat fermentum, lacus ante sagittis eros, vitae imperdiet leo felis ut ligula. Nulla sollicitudin lorem quis tempor mattis. Maecenas tincidunt nibh a velit dapibus gravida. Aliquam nisi enim, viverra eu nulla sed, fermentum volutpat dui. Nulla sollicitudin lorem quis.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]Phasellus mattis efficitur sollicitudin. Aliquam nisi enim, viverra eu nulla sed, fermentum volutpat dui. Proin nec dui congue neque cursus ullamcorper. Sed ipsum risus, ultrices a posuere ac, molestie sed tortor. Aenean gravida enim velit, ut auctor eros porttitor in. Phasellus consectetur a est dictum aliquet. Nulla et neque efficitur, auctor purus vel, ornare tellus. Aenean non tellus elementum purus feugiat ullamcorper a ut urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam fermentum tristique ante.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][vc_tta_section title="Our Results" tab_id="1493993376107-58a3deec-2171"][vc_row_inner][vc_column_inner width="1/3"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nisl diam, vitae consequat massa lacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbi mattis, turpis quis volutpat fermentum, lacus ante sagittis eros, vitae imperdiet leo felis ut ligula. Nulla sollicitudin lorem quis tempor mattis.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nisl diam, vitae consequat massa lacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbi mattis, turpis quis volutpat fermentum, lacus ante sagittis eros, vitae imperdiet leo felis ut ligula. Nulla sollicitudin lorem quis tempor mattis.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_column_text]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices nisl diam, vitae consequat massa lacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbi mattis, turpis quis volutpat fermentum, lacus ante sagittis eros, vitae imperdiet leo felis ut ligula. Nulla sollicitudin lorem quis tempor mattis.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_tta_section][/vc_tta_tabs][/vc_column][/vc_row][vc_row css=".vc_custom_1499353167964{padding-top: 70px !important;padding-bottom: 10px !important;}"][vc_column][special_heading title="Our Features" subtitle="You are going to love those." c_margin_bottom="60px"][vc_row_inner css=".vc_custom_1494858130762{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Powerful Options" text="Take a full control over all aspects of your theme with our truly extensive Options Panel." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-params"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Responsive Design" text="Engage is a fully responsive and retina ready theme that scales well to all mobile devices." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-display"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Satisfied Clients" text="Build any layout you can think of with the most powerful page builder Visual Composer." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-pen"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1494858134698{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Demo Content" text="All of presented layouts and theme demo pages are available with a single mouse click." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-megaphone"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Free Support" text="Our top-notch support team will be more than happy to answer any of your questions." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-bubble"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Documentation" text="Everything you need to know about the theme is located in the extensive documentation." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-news"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1494858145826{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Google Fonts" text="You may choose any font from the extensive Google Fonts library with a single mouse click." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-star"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Premium Sliders" text="Engage comes with two most powerful sliders out there: Revolution Slider and Layer Slider." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-photo"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Styling Options" text="Adjust the looks of your theme with the extensive Styling panel. Possibilities are endless." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-diamond"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" bg_overlay="accent" css=".vc_custom_1505387033592{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/demo-main/wp-content/uploads/sites/104/2017/09/full-7.jpg?id=2024) !important;}"][vc_column][cta heading="Feeling convinced?" subheading="I am a subtitle, feel free to change me!" container="contain" align="center" button1_color="white" el_bg="none"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">700112</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-07-06 14:27:37]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-07-06 14:27:37]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[services]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[publish]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1494851871081{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1499353277766{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1499353167964{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1505387033592{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/demo-main/wp-content/uploads/sites/104/2017/09/full-7.jpg?id=2024) !important;}.vc_custom_1505387060746{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1505387091639{margin-bottom: 0px !important;}.vc_custom_1493057150253{padding-bottom: 15px !important;}.vc_custom_1493993219194{padding-top: 30px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1494851871081{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1499353277766{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1499353167964{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1505387033592{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/wp-content/uploads/2017/09/full-7.jpg?id=2024) !important;}.vc_custom_1505387060746{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1505387091639{margin-bottom: 0px !important;}.vc_custom_1493057150253{padding-bottom: 15px !important;}.vc_custom_1493993219194{padding-top: 30px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dark30]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_align]]></wp:meta_key>
+			<wp:meta_value><![CDATA[left]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_subtitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[What we can offer you.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1494851871081{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1499353277766{padding-top: 60px !important;padding-bottom: 20px !important;}.vc_custom_1499353167964{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1505387033592{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/wp-content/uploads/2017/09/full-7.jpg?id=2024) !important;}.vc_custom_1505387060746{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1505387091639{margin-bottom: 0px !important;}.vc_custom_1493057150253{padding-bottom: 15px !important;}.vc_custom_1493993219194{padding-top: 30px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#f3f3f3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_height]]></wp:meta_key>
+			<wp:meta_value><![CDATA[200]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#333333]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#666666]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_breadcrumbs_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#888888]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>

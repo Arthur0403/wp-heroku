@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>About us</title>
+		<link>http://engage.veented.com/wine/about-us/</link>
+		<pubDate>Sat, 08 Jul 2017 14:41:32 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[marcin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/wine/?page_id=7</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">[vc_row full_width="stretch_row_content_no_spaces" parallax="content-moving" bg_overlay="dark40" css=".vc_custom_1500396671288{padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/country-lane-428039_1920.jpg?id=174) !important;}"][vc_column][vc_custom_heading text="ABOUT US" font_container="tag:h5|font_size:18px|text_align:center|color:rgba(255%2C255%2C255%2C0.8)" google_fonts="font_family:Open%20Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic|font_style:400%20regular%3A400%3Anormal" css=".vc_custom_1499876924491{margin-bottom: 20px !important;}"][vc_custom_heading text="Who we are" font_container="tag:h1|font_size:66px|text_align:center|color:%23ffffff" use_theme_fonts="yes" css=".vc_custom_1500396658043{padding-right: 10% !important;padding-left: 10% !important;}"][/vc_column][/vc_row][vc_row full_width="stretch_row" equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1499704803815{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right" css=".vc_custom_1494861025506{padding-top: 0px !important;}"][vc_single_image image="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-9-800x760.jpg" img_size="800x760" frame=""][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left" css=".vc_custom_1494861039724{padding-top: 20px !important;}"][vc_column_text css=".vc_custom_1499704709653{margin-bottom: 25px !important;}"]
+&lt;h2&gt;About us&lt;/h2&gt;
+Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. Duis aute irure dolor infugiat nulla pariatur.Duis aute irure dolor infugiat nulla pariatur.[/vc_column_text][vntd_icon_list style="outline" icons_color="accent" elements="%5B%7B%22icon_fontawesome%22%3A%22fa%20fa-envira%22%2C%22text%22%3A%22We%20care%20about%20environment.%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-users%22%2C%22text%22%3A%22We%20are%20trusted%20by%20hundreds%20of%20clients.%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-heart%22%2C%22text%22%3A%22Social%20media%20loves%20us!%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-check%22%2C%22text%22%3A%22This%20list%20is%20super%20easy%20to%20create.%22%7D%5D" size="large" border="off"][/vc_column][/vc_row][vc_row][vc_column][special_heading title="Why we are make a perfect wine?" subtitle="And here goes a super fancy description of the section." border="disable" add_icon="true" icon_fontawesome="fa fa-heart-o"][/vc_column][/vc_row][vc_row css=".vc_custom_1499960832641{padding-top: 45px !important;padding-bottom: 45px !important;}"][vc_column width="1/3"][icon_box title="Quality" text="Sed fringilla mauris sit amet nibh donec sodales sagittis magna" color="accent" icon_type="material" icon_material="vc-material vc-material-check"][/vc_column][vc_column width="1/3"][icon_box title="Traditional" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." color="accent" icon_type="material" icon_material="vc-material vc-material-collections_bookmark"][/vc_column][vc_column width="1/3"][icon_box title="Fresh" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." color="accent" icon_type="material" icon_material="vc-material vc-material-local_bar"][/vc_column][/vc_row][vc_row parallax="content-moving" bg_overlay="dark30" bg_gradient1="#b06ab3" bg_gradient2="#4568dc" css=".vc_custom_1499877521598{padding-top: 95px !important;padding-bottom: 60px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-4.jpg?id=44) !important;}"][vc_column width="1/4"][counter title="Page Likes" number="1430" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-like"][/vc_column][vc_column width="1/4"][counter title="Locations" number="64" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-shop"][/vc_column][vc_column width="1/4"][counter title="Great Ideas" number="960" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-bulb"][/vc_column][vc_column width="1/4"][counter title="Comments" number="420" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-bubble"][/vc_column][/vc_row][vc_row css=".vc_custom_1499960792799{padding-top: 75px !important;padding-bottom: 30px !important;background-color: #f4f4f4 !important;}"][vc_column][special_heading title="Meet our specialist" subtitle="They love wines id semper bibendum" c_margin_bottom="60px"][vc_row_inner][vc_column_inner width="1/3"][vntd_person name="John Doe" position="Connoisseur" img="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-10.jpg" twitter="#" facebook="#"][/vc_column_inner][vc_column_inner width="1/3"][vntd_person name="Alice Doen" position="Madcap" img="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/square-5.jpg" twitter="#" facebook="#"][/vc_column_inner][vc_column_inner width="1/3"][vntd_person name="John Holmes" position="Traveler" img="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/shutterstock_212870275.jpg" twitter="#" facebook="#"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1494837258934{padding-top: 75px !important;padding-bottom: 50px !important;}"][vc_column][vc_custom_heading text="We are truly unique. Wanna know why?" font_container="tag:h2|font_size:34px|text_align:center" use_theme_fonts="yes" css=".vc_custom_1500044908373{margin-bottom: 45px !important;}"][vc_row_inner][vc_column_inner width="1/2" css=".vc_custom_1494837242649{padding-right: 25px !important;}"][vc_column_text]
+&lt;h4&gt;Get dolor morbi non arcu risus quis varius quam. Sed odio morbi quis commodo odio aenean sed adipiscing. Sit amet aliquam id diam maecenas ultricies mi. Ac tortor vitae purus faucibus ornare suspendisse sed.&lt;/h4&gt;
+Ultricies mi quis hendrerit dolor. Auctor eu augue ut lectus arcu bibendum at varius. Facilisis gravida neque convallis a cras semper auctor neque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Tristique risus nec feugiat in fermentum posuere urna nec tincidunt. Sed turpis tincidunt id aliquet risus feugiat.[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at.Mauris sodales felis luctus purus hendreri. Vivamus finibus laoreet tristique. Quisque pharetra, urna.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" css=".vc_custom_1494837238398{padding-left: 25px !important;}"][vc_single_image image="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/grapes500-1.jpg" alignment="center" css=".vc_custom_1500399198536{padding-top: 30px !important;padding-bottom: 30px !important;}"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" color_scheme="dark" bg_overlay="dark50" css=".vc_custom_1500399703878{padding-top: 50px !important;padding-bottom: 50px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/purple-grapes-553464_1920.jpg?id=347) !important;}"][vc_column][special_heading title="“" subtitle="" align="center" border="inline" font_size="56px" heading_color="accent-3"][special_heading title="Wine is one of the most civilized things in the world and one of the most natural things of the world that has been brought to the greatest perfection, and it offers a greater range for enjoyment and appreciation than, possibly, any other purely sensory thing." subtitle="Ernest Hemingway" align="center" border="disable" heading_color="accent-3" subtitle_color="accent-3"][special_heading title="“" subtitle="" align="center" border="inline" font_size="56px" heading_color="accent-3"][/vc_column][/vc_row][vc_row][vc_column][vc_row_inner css=".vc_custom_1500400159843{padding-top: 50px !important;}"][vc_column_inner width="1/2" css=".vc_custom_1494837242649{padding-right: 25px !important;}"][vc_single_image image="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine2.jpg" img_size="large" alignment="center" css=".vc_custom_1500399878678{padding-top: 0px !important;padding-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][/vc_column_inner][vc_column_inner width="1/2" css=".vc_custom_1494837238398{padding-left: 25px !important;}"][vc_column_text]
+&lt;h3&gt;Senectus et netus et malesuada fames ac.&lt;/h3&gt;
+Placerat vestibulum lectus mauris ultrices. At urna condimentum mattis pellentesque id.Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at.Mauris sodales felis luctus purus hendreri. Vivamus finibus laoreet tristique. Quisque pharetra, urna.
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.[/vc_column_text][vc_column_text]
+&lt;h4&gt; Facilisis gravida neque convallis a cras&lt;/h4&gt;
+Ultricies mi quis hendrerit dolor. Auctor eu augue ut lectus arcu bibendum at varius. Facilisis gravida neque convallis a cras semper auctor neque. Eget sit amet tellus cras adipiscing enim eu turpis egestas. Tristique risus nec feugiat in fermentum posuere urna nec tincidunt. Sed turpis tincidunt id aliquet risus feugiat.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column][special_heading title="Gallery" subtitle="Visit our plantation" add_icon="true" icon_type="material" icon_material="vc-material vc-material-photo_library"][vc_media_grid element_width="3" gap="0" grid_id="vc_gid:1500400982335-b4c45ce2-0c17-2" include="219,24,33,49,136,174,198,124"][/vc_column][/vc_row][vc_row][vc_column][client_logos images="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/logo_06.png,http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/logo_04.png,http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/logo_02.png,http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/logo_01.png,http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/logo_07.png" cols="5" dots="false" cols_mobile="2" cols_tablet="4"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" bg_color_pre="bg-color-accent" bg_overlay="dark30" css=".vc_custom_1500392989965{padding-top: 45px !important;padding-bottom: 40px !important;background-color: #a10918 !important;}"][vc_column][cta heading="You wanna more information?" subheading="Feel free to write to us" button1_title="Contact with us" button1_url="http://engage.veented.com/wine/contact-us/" container="contain" align="center" button1_color="white" el_bg="none"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">72807</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-07-08 14:41:32]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-07-08 14:41:32]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[about-us]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[publish]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:1:{s:10:"shortcodes";a:1:{s:29:"1500400982335-b4c45ce2-0c17-2";a:3:{s:3:"tag";s:13:"vc_media_grid";s:4:"atts";a:4:{s:13:"element_width";s:1:"3";s:3:"gap";s:1:"0";s:7:"grid_id";s:36:"vc_gid:1500400982335-b4c45ce2-0c17-2";s:7:"include";s:28:"219,24,33,49,136,174,198,124";}s:7:"content";s:0:"";}}}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1500396671288{padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/country-lane-428039_1920.jpg?id=174) !important;}.vc_custom_1499704803815{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1499960832641{padding-top: 45px !important;padding-bottom: 45px !important;}.vc_custom_1499877521598{padding-top: 95px !important;padding-bottom: 60px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-4.jpg?id=44) !important;}.vc_custom_1499960792799{padding-top: 75px !important;padding-bottom: 30px !important;background-color: #f4f4f4 !important;}.vc_custom_1494837258934{padding-top: 75px !important;padding-bottom: 50px !important;}.vc_custom_1500399703878{padding-top: 50px !important;padding-bottom: 50px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/purple-grapes-553464_1920.jpg?id=347) !important;}.vc_custom_1500392989965{padding-top: 45px !important;padding-bottom: 40px !important;background-color: #a10918 !important;}.vc_custom_1499876924491{margin-bottom: 20px !important;}.vc_custom_1500396658043{padding-right: 10% !important;padding-left: 10% !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1499704709653{margin-bottom: 25px !important;}.vc_custom_1500044908373{margin-bottom: 45px !important;}.vc_custom_1494837242649{padding-right: 25px !important;}.vc_custom_1494837238398{padding-left: 25px !important;}.vc_custom_1500399198536{padding-top: 30px !important;padding-bottom: 30px !important;}.vc_custom_1500400159843{padding-top: 50px !important;}.vc_custom_1494837242649{padding-right: 25px !important;}.vc_custom_1494837238398{padding-left: 25px !important;}.vc_custom_1500399878678{padding-top: 0px !important;padding-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>

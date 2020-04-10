@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>Wines</title>
+		<link>http://engage.veented.com/wine/wines/</link>
+		<pubDate>Mon, 10 Jul 2017 16:53:43 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[marcin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/wine/?page_id=51</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">[vc_row parallax="content-moving" color_scheme="white" bg_overlay="dark60" css=".vc_custom_1500398187178{padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-15.jpg?id=184) !important;}"][vc_column][special_heading title="Wines" subtitle="Check our offer" c_margin_bottom="0px" font_size="52px" font_weight="300" text_transform="none" subtitle_fs="20px"][/vc_column][/vc_row][vc_row equal_height="yes"][vc_column][special_heading title="Our regional products" subtitle="Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur." border="disable" add_icon="true" icon_fontawesome="fa fa-heart-o"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_single_image image="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/white_wine-800x700.jpg" img_size="800x700" alignment="center" css_animation="none" css=".vc_custom_1500398073152{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_column_text]
+&lt;h2&gt;White wine&lt;/h2&gt;
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.[/vc_column_text][vntd_icon_list style="outline" elements="%5B%7B%22icon_fontawesome%22%3A%22fa%20fa-viadeo%22%2C%22text%22%3A%22Tasty%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-envira%22%2C%22text%22%3A%22Traditional%20recepture%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-star-o%22%2C%22text%22%3A%22Classic%22%7D%5D"][vntd_button label="Order now" icon_enabled="yes" icon_fontawesome="fa fa-long-arrow-right" icon_style="right_side_hover" url="http://engage.veented.com/wine/contact-us/"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1500398326241{padding-top: 90px !important;padding-bottom: 90px !important;background-color: #f9f9f9 !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_column_text]
+&lt;h2&gt;Red wine&lt;/h2&gt;
+Vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio[/vc_column_text][vntd_icon_list style="outline" elements="%5B%7B%22icon_fontawesome%22%3A%22fa%20fa-viadeo%22%2C%22text%22%3A%22Tasty%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-envira%22%2C%22text%22%3A%22Traditional%20recepture%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-star-o%22%2C%22text%22%3A%22Classic%22%7D%5D"][vntd_button label="Order now" icon_enabled="yes" icon_fontawesome="fa fa-long-arrow-right" icon_style="right_side_hover" url="http://engage.veented.com/wine/contact-us/"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_single_image image="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/red_wine_grey-800x700.jpg" img_size="800x700" alignment="center" css_animation="none" css=".vc_custom_1500398411176{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_single_image image="http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/pink_wine-800x700.jpg" img_size="800x700" alignment="center" css_animation="none" css=".vc_custom_1500398229787{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_column_text]
+&lt;h2&gt;Pink wine&lt;/h2&gt;
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.[/vc_column_text][vntd_icon_list style="outline" elements="%5B%7B%22icon_fontawesome%22%3A%22fa%20fa-viadeo%22%2C%22text%22%3A%22Tasty%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-envira%22%2C%22text%22%3A%22Traditional%20recepture%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-star-o%22%2C%22text%22%3A%22Classic%22%7D%5D"][vntd_button label="Order now" icon_enabled="yes" icon_fontawesome="fa fa-long-arrow-right" icon_style="right_side_hover" url="http://engage.veented.com/wine/contact-us/"][/vc_column][/vc_row][vc_row css=".vc_custom_1500052903567{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #f7f7f7 !important;}"][vc_column][special_heading title="Why we have tasty wines?" subtitle="And here goes a super fancy description of the section." border="disable" add_icon="true" icon_fontawesome="fa fa-heart-o"][vc_row_inner][vc_column_inner width="1/3"][icon_box title="Quality" text="Sed fringilla mauris sit amet nibh donec sodales sagittis magna" color="accent" icon_fontawesome="fa fa-star-half-o" color_heading="#a10918"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Traditional" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." color="accent" icon_type="material" color_heading="#a10918"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Fresh" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." color="accent" icon_type="material" icon_material="vc-material vc-material-filter_vintage" color_heading="#a10918"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row parallax="content-moving" bg_overlay="dark40" css=".vc_custom_1499878921444{padding-top: 220px !important;padding-bottom: 220px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-3.jpg?id=24) !important;}"][vc_column][vc_custom_heading text="MAKING OF GREAT WINE" font_container="tag:h5|font_size:18px|text_align:center|color:rgba(255%2C255%2C255%2C0.8)" google_fonts="font_family:Open%20Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic|font_style:400%20regular%3A400%3Anormal" css=".vc_custom_1499877817465{margin-bottom: 20px !important;}"][vc_custom_heading text="Discover the process" font_container="tag:h1|font_size:66px|text_align:center|color:%23ffffff" use_theme_fonts="yes" css=".vc_custom_1500398434306{padding-right: 10% !important;padding-left: 10% !important;}"][vntd_button label="LEARN MORE" style="outline" color="white" color_hover="white" align="center" url="http://engage.veented.com/wine/making-of/" margin_top="16px"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" bg_color_pre="bg-color-accent" css=".vc_custom_1494250403646{padding-top: 0px !important;}"][vc_column][cta heading="Try our wines" subheading="totam rem aperiam, eaque ipsa quae ab illo inventore veritatis " button1_title="Contact with us" button1_url="http://engage.veented.com/wine/contact-us/" container="contain" align="center" button1_color="white"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">728051</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-07-10 16:53:43]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-07-10 16:53:43]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[wines]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[publish]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1500398187178{padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-15.jpg?id=184) !important;}.vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1500398326241{padding-top: 90px !important;padding-bottom: 90px !important;background-color: #f9f9f9 !important;}.vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1500052903567{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #f7f7f7 !important;}.vc_custom_1499878921444{padding-top: 220px !important;padding-bottom: 220px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-3.jpg?id=24) !important;}.vc_custom_1494250403646{padding-top: 0px !important;}.vc_custom_1500398073152{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1500398411176{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1500398229787{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1499877817465{margin-bottom: 20px !important;}.vc_custom_1500398434306{padding-right: 10% !important;padding-left: 10% !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1500398187178{padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-15.jpg?id=184) !important;}.vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1500398326241{padding-top: 90px !important;padding-bottom: 90px !important;background-color: #f9f9f9 !important;}.vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1500052903567{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #f7f7f7 !important;}.vc_custom_1499878921444{padding-top: 220px !important;padding-bottom: 220px !important;background-image: url(http://engage.veented.com/wine/wp-content/uploads/sites/26/2017/07/wine-3.jpg?id=24) !important;}.vc_custom_1494250403646{padding-top: 0px !important;}.vc_custom_1500398073152{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1500398411176{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1500398229787{margin-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: contain !important;}.vc_custom_1499877817465{margin-bottom: 20px !important;}.vc_custom_1500398434306{padding-right: 10% !important;padding-left: 10% !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>

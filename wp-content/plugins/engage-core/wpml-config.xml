@@ -1,0 +1,15 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">team</custom-type>
+        <custom-type translate="1">veented_slider</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio-category</taxonomy>
+        <taxonomy translate="1">slide-locations</taxonomy>
+        <taxonomy translate="1">member-position</taxonomy>
+        <taxonomy translate="1">portfolio-skills</taxonomy>
+        <taxonomy translate="1">testimonials-category</taxonomy>
+    </taxonomies>
+</wpml-config>

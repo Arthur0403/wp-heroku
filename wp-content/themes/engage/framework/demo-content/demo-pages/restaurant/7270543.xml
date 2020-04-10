@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>Home</title>
+		<link>http://engage.veented.com/restaurant/?page_id=543</link>
+		<pubDate>Wed, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/restaurant/?page_id=543</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">[vc_row color_scheme="white" css=".vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vntd_hero_section heading="Welcome to Barber Shop" subtitle="We're the biggest, best equipped and most advanced Barber Shop in the greater Los Angeles area. " btn1_label="Learn More" btn1_url="http://engage.veented.com/barber/about/" btn2_label="Book a Visit" btn2_url="http://engage.veented.com/barber/contact/" content_align="right" scroll_btn="true" images="" bg_overlay="dark30" height="custom" height_custom="800px" content_width="narrow" content_offset="50px" parallax="no" heading_fs="76px" heading_tt="normal" subtitle_fs="22px" btn1_color="accent" btn1_style="solid"][/vc_column][/vc_row][vc_row css=".vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}"][vc_column width="1/4"][icon_box title="Professional Staff" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-users"][/vc_column][vc_column width="1/4"][icon_box title="Great Locations" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-map-o"][/vc_column][vc_column width="1/4"][icon_box title="Fast Results" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-signal"][/vc_column][vc_column width="1/4"][icon_box title="Satisfied Clients" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo." style="centered-circle" icon_fontawesome="fa fa-thumbs-o-up"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1495534467277{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="7/12" col_padding="2" col_padding_side="right"][vc_column_text css=".vc_custom_1495534487829{margin-bottom: 18px !important;}"]
+&lt;h2&gt;Who we are?&lt;/h2&gt;
+[/vc_column_text][vc_column_text font_size="medium"]
+&lt;p class="p1"&gt;Aliquam imperdiet egestas nisi ultrices tristique. Maecenas vestibulum rutrum luctus. Quisque at viverra felis. Aliquam pharetra lacus non sem ullamcorper tempus. Donec quis commodo ligula, eu aliquet elit.&lt;/p&gt;
+[/vc_column_text][vc_row_inner css=".vc_custom_1494852056203{padding-top: 20px !important;}"][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852050796{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Premium Support&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt. Cras auctor consectetur pharetra.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852136754{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Powerful Features&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt. Cras auctor consectetur pharetra.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1494852056203{padding-top: 20px !important;}"][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852172479{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Satisfied Clients&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt. Cras auctor consectetur pharetra.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text css=".vc_custom_1494852189991{margin-bottom: 12px !important;}"]
+&lt;h5&gt;Flexible Options&lt;/h5&gt;
+[/vc_column_text][vc_column_text]
+&lt;p class="p1"&gt;Curabitur in ante odio. Quisque facilisis elementum ipsum id tincidunt. Cras auctor consectetur pharetra.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="5/12" col_padding="1" col_padding_side="left"][vc_single_image image="" img_size="800x860" css=".vc_custom_1495534447639{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row color_scheme="white" bg_overlay="dark30" css=".vc_custom_1495534887318{padding-top: 100px !important;padding-bottom: 75px !important;background-image: url(http://engage.veented.com/barber/wp-content/uploads/sites/4/2017/04/barber-2.jpg?id=503) !important;}"][vc_column][vc_icon icon_fontawesome="fa fa-comments-o" color="white" size="lg" align="center" css=".vc_custom_1495534829713{margin-bottom: 15px !important;}"][special_heading title="Our Testimonials" subtitle=""][vntd_testimonials posts_nr="5" bullet_nav="" arrow_nav="true"][/vc_column][/vc_row][vc_row css=".vc_custom_1495534963593{padding-top: 70px !important;padding-bottom: 10px !important;}"][vc_column][special_heading title="Our Features" subtitle="You are going to love those." c_margin_bottom="60px"][vc_row_inner css=".vc_custom_1494858130762{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Powerful Options" text="Take a full control over all aspects of your theme with our truly extensive Options Panel." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-params"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Responsive Design" text="Engage is a fully responsive and retina ready theme that scales well to all mobile devices." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-display"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Satisfied Clients" text="Build any layout you can think of with the most powerful page builder Visual Composer." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-pen"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1494858134698{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Demo Content" text="All of presented layouts and theme demo pages are available with a single mouse click." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-megaphone"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Free Support" text="Our top-notch support team will be more than happy to answer any of your questions." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-bubble"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Documentation" text="Everything you need to know about the theme is located in the extensive documentation." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-news"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1495534928965{padding-top: 85px !important;padding-bottom: 85px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right" css=".vc_custom_1493997470153{padding-top: 20px !important;}"][vc_column_text]
+&lt;h2&gt;Contact Information&lt;/h2&gt;
+I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][vc_column_text css=".vc_custom_1493997380291{margin-bottom: 18px !important;}"]Our contact details:[/vc_column_text][vntd_icon_list icons_color="accent" elements="%5B%7B%22icon_fontawesome%22%3A%22fa%20fa-map-o%22%2C%22text%22%3A%22Manchester%20St%20123-78B%2C%20Random%20713%2C%20UK%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-phone%22%2C%22text%22%3A%22%2B46%20123%20456%20789%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-headphones%22%2C%22text%22%3A%22%2B37%20431%20456%20789%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-envelope-o%22%2C%22text%22%3A%22hello%40sitename.com%22%7D%5D" border="off"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vntd_gmap height="520" map_style="light" markers="%5B%7B%22title%22%3A%22Map%20Marker%22%2C%22text%22%3A%22This%20is%20an%20example%20marker%20description.%22%2C%22color%22%3A%22indigo%22%2C%22location%22%3A%22center%22%2C%22location_custom%22%3A%2240.7302327%2C-74.0100041%22%7D%5D"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">7270543</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-05-25 15:43:49]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[home-3]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[draft]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1495534467277{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1495534887318{padding-top: 100px !important;padding-bottom: 75px !important;background-image: url(http://engage.veented.com/barber/wp-content/uploads/sites/4/2017/04/barber-2.jpg?id=503) !important;}.vc_custom_1495534963593{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1495534928965{padding-top: 85px !important;padding-bottom: 85px !important;}.vc_custom_1495534487829{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1495534447639{margin-bottom: 0px !important;}.vc_custom_1495534829713{margin-bottom: 15px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1493997470153{padding-top: 20px !important;}.vc_custom_1493997380291{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1495534467277{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1495534887318{padding-top: 100px !important;padding-bottom: 75px !important;background-image: url(http://engage.veented.com/barber/wp-content/uploads/sites/4/2017/04/barber-2.jpg?id=503) !important;}.vc_custom_1495534963593{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1495534928965{padding-top: 85px !important;padding-bottom: 85px !important;}.vc_custom_1495534487829{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1495534447639{margin-bottom: 0px !important;}.vc_custom_1495534829713{margin-bottom: 15px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1493997470153{padding-top: 20px !important;}.vc_custom_1493997380291{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1495534467277{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1495534887318{padding-top: 100px !important;padding-bottom: 75px !important;background-image: url(http://engage.veented.com/barber/wp-content/uploads/sites/4/2017/04/barber-2.jpg?id=503) !important;}.vc_custom_1495534963593{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1495534928965{padding-top: 85px !important;padding-bottom: 85px !important;}.vc_custom_1495534487829{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1495534447639{margin-bottom: 0px !important;}.vc_custom_1495534829713{margin-bottom: 15px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1493997470153{padding-top: 20px !important;}.vc_custom_1493997380291{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1495534467277{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1495534887318{padding-top: 100px !important;padding-bottom: 75px !important;background-image: url(http://engage.veented.com/barber/wp-content/uploads/sites/4/2017/04/barber-2.jpg?id=503) !important;}.vc_custom_1495534963593{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1495534928965{padding-top: 85px !important;padding-bottom: 85px !important;}.vc_custom_1495534487829{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1495534447639{margin-bottom: 0px !important;}.vc_custom_1495534829713{margin-bottom: 15px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1493997470153{padding-top: 20px !important;}.vc_custom_1493997380291{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1495534467277{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1495534887318{padding-top: 100px !important;padding-bottom: 75px !important;background-image: url(http://engage.veented.com/barber/wp-content/uploads/sites/4/2017/04/barber-2.jpg?id=503) !important;}.vc_custom_1495534963593{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1495534928965{padding-top: 85px !important;padding-bottom: 85px !important;}.vc_custom_1495534487829{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1495534447639{margin-bottom: 0px !important;}.vc_custom_1495534829713{margin-bottom: 15px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1493997470153{padding-top: 20px !important;}.vc_custom_1493997380291{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:1:"0";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1495285734662{padding-top: 70px !important;padding-bottom: 40px !important;}.vc_custom_1495534467277{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1495534887318{padding-top: 100px !important;padding-bottom: 75px !important;background-image: url(http://engage.veented.com/barber/wp-content/uploads/sites/4/2017/04/barber-2.jpg?id=503) !important;}.vc_custom_1495534963593{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1495534928965{padding-top: 85px !important;padding-bottom: 85px !important;}.vc_custom_1495534487829{margin-bottom: 18px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852056203{padding-top: 20px !important;}.vc_custom_1494852050796{margin-bottom: 12px !important;}.vc_custom_1494852136754{margin-bottom: 12px !important;}.vc_custom_1494852172479{margin-bottom: 12px !important;}.vc_custom_1494852189991{margin-bottom: 12px !important;}.vc_custom_1495534447639{margin-bottom: 0px !important;}.vc_custom_1495534829713{margin-bottom: 15px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1493997470153{padding-top: 20px !important;}.vc_custom_1493997380291{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:102:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/shutterstock_166601417.jpg?id=365";a:1:{s:9:"timestamp";i:1495448550;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>

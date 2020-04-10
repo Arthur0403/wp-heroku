@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>Home 3</title>
+		<link>http://www.engage.veented.com/business/home-3/</link>
+		<pubDate>Wed, 09 Aug 2017 12:03:07 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/agency/?page_id=916</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">[vc_row equal_height="yes" content_placement="middle" color_scheme="white" bg_overlay="accent" css=".vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}"][vc_column width="5/12"][vc_column_text css=".vc_custom_1502098254642{margin-bottom: 15px !important;}"]
+&lt;h1&gt;Welcome to Engage&lt;/h1&gt;
+[/vc_column_text][vc_column_text font_size="large" css=".vc_custom_1502100515656{margin-bottom: 27px !important;}"]This is the most awesome and powerful theme you have ever used. Give it a try and you will never go back to other products.[/vc_column_text][vntd_button label="Learn More" style="solid" color="white" url="url:http%3A%2F%2Fwww.engage.veented.com%2Fbusiness%2Fabout%2F|||"][/vc_column][vc_column width="7/12" col_padding="4" col_padding_side="left"][vc_single_image image="http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-5-700x440.jpg" img_size="700x440" style="vc_box_rounded" frame="" css=".vc_custom_1510579396073{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row css=".vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}"][vc_column width="1/4"][icon_box title="Powerful Options" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="centered-circle" icon_type="linecons" icon_linecons="vc_li vc_li-params"][/vc_column][vc_column width="1/4"][icon_box title="Responsive Design" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="centered-circle" icon_type="linecons" icon_linecons="vc_li vc_li-display"][/vc_column][vc_column width="1/4"][icon_box title="Page Builder" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="centered-circle" icon_type="linecons" icon_linecons="vc_li vc_li-pen"][/vc_column][vc_column width="1/4"][icon_box title="Satisfied Clients" text="Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo." style="centered-circle" icon_type="linecons"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right" css=".vc_custom_1494861025506{padding-top: 0px !important;}"][vc_single_image image="http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/08/business-main-700x600.jpg" img_size="700x600" frame=""][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left" css=".vc_custom_1494861039724{padding-top: 20px !important;}"][vc_column_text css=".vc_custom_1500050965579{margin-bottom: 25px !important;}"]
+&lt;h3&gt;Who we are?&lt;/h3&gt;
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house. We are so happy with this theme. Everyday it make our lives better.[/vc_column_text][vntd_icon_list icons_color="accent" elements="%5B%7B%22icon_fontawesome%22%3A%22fa%20fa-envira%22%2C%22text%22%3A%22We%20care%20about%20environment.%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-users%22%2C%22text%22%3A%22We%20are%20trusted%20by%20hundreds%20of%20clients.%22%7D%2C%7B%22icon_fontawesome%22%3A%22fa%20fa-heart%22%2C%22text%22%3A%22Social%20media%20loves%20us!%22%7D%5D" size="medium" border="off"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_column_text css=".vc_custom_1502101095436{margin-bottom: 18px !important;}"]
+&lt;h3&gt;Our Skills&lt;/h3&gt;
+[/vc_column_text][vc_column_text]Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at. Mauris sodales felis luctus purus hendreri. Vivamus baram sapien era.[/vc_column_text][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_progress_bar values="%5B%7B%22label%22%3A%22Development%22%2C%22value%22%3A%2294%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2286%22%7D%2C%7B%22label%22%3A%22Marketing%22%2C%22value%22%3A%2278%22%7D%2C%7B%22label%22%3A%22Webdev%22%2C%22value%22%3A%2272%22%7D%5D" bgcolor="accent" units="%"][/vc_column][/vc_row][vc_row parallax="content-moving" bg_color_pre="bg-color-1" css=".vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}"][vc_column width="1/4"][counter title="Page Likes" number="1430" icon_type="linecons" icon_linecons="vc_li vc_li-like"][/vc_column][vc_column width="1/4"][counter title="Locations" number="64" icon_type="linecons" icon_linecons="vc_li vc_li-shop"][/vc_column][vc_column width="1/4"][counter title="Great Ideas" number="960" icon_type="linecons" icon_linecons="vc_li vc_li-bulb"][/vc_column][vc_column width="1/4"][counter title="Comments" number="420" icon_type="linecons" icon_linecons="vc_li vc_li-bubble"][/vc_column][/vc_row][vc_row css=".vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}"][vc_column][special_heading title="Testimonials" subtitle="What our awesome clients say about us." c_margin_bottom="55px"][vntd_testimonials style="simple" cols="3" posts_nr="5"][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}"][vc_column][client_logos images="http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/08/logo_06.png,http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/08/logo_05.png,http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/08/logo_04.png,http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/08/logo_03.png,http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/08/logo_02.png,http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/08/logo_01.png" cols="5" dots="false"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" color_scheme="white" bg_color_pre="bg-color-accent" bg_overlay="accent" css=".vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}"][vc_column][cta heading="Feeling convinced?" subheading="Don't hesitate and get our theme now." button1_title="Buy Engage!" container="contain" align="center" text_color="dark" button1_color="white" button1_style="solid" el_bg="none" button1_url="url:http%3A%2F%2Fthemeforest.net%2Fitem%2Fengage-creative-multipurpose-wp-theme%2F19199913%3Fref%3DVeented||target:%20_blank|"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">770916</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-08-09 12:03:07]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-08-09 12:03:07]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[home-3]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[publish]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:1:"0";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1510579416238{padding-top: 150px !important;padding-bottom: 110px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-3.jpg?id=1034) !important;}.vc_custom_1493725830541{padding-top: 85px !important;padding-bottom: 45px !important;}.vc_custom_1502101182306{padding-top: 90px !important;padding-bottom: 60px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1502101191699{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1502101364848{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1510579667371{padding-top: 30px !important;padding-bottom: 5px !important;}.vc_custom_1510579584558{padding-top: 25px !important;padding-bottom: 20px !important;background-image: url(http://www.engage.veented.com/business/wp-content/uploads/sites/114/2017/04/full-2.jpg?id=1033) !important;}.vc_custom_1502098254642{margin-bottom: 15px !important;}.vc_custom_1502100515656{margin-bottom: 27px !important;}.vc_custom_1510579396073{margin-bottom: 0px !important;}.vc_custom_1494861025506{padding-top: 0px !important;}.vc_custom_1494861039724{padding-top: 20px !important;}.vc_custom_1500050965579{margin-bottom: 25px !important;}.vc_custom_1502101095436{margin-bottom: 18px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:102:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/shutterstock_166601417.jpg?id=365";a:1:{s:9:"timestamp";i:1495448550;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>

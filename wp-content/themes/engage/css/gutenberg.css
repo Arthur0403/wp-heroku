@@ -1,0 +1,450 @@
+.editor-writing-flow,
+.wp-block-freeform.block-library-rich-text__tinymce body,
+.wp-block-freeform.block-library-rich-text__tinymce {
+  color: #686868;
+  font-size: 16px;
+  line-height: 1.86em;
+  font-family: 'Open Sans', arial;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+.editor-block-list__block p,
+.editor-writing-flow .editor-block-list__block p {
+  margin: 0 0 25px;
+  font-size: 16px;
+  line-height: 1.86em;
+  color: #686868;
+  font-family: 'Open Sans', arial;
+}
+
+.editor-writing-flow dl {
+  max-width: 100%;
+}
+
+.editor-writing-flow .editor-block-list__block p strong,
+.editor-block-list__block p strong {
+  font-weight: 700;
+  color: #555;
+}
+
+.editor-writing-flow .editor-block-list__block p > cite,
+.editor-block-list__block p > cite {
+    margin-left: 20px;
+}
+
+.editor-writing-flow .editor-block-list__block cite,
+.editor-block-list__block cite {
+    font-style: italic;
+    opacity: 0.6;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce a,
+.block-editor div[data-block] a {
+  text-decoration: none;
+}
+
+.block-editor div[data-block] a,
+.block-editor div[data-block] p a:hover,
+.block-editor div[data-block] table a:hover,
+.block-editor div[data-block] li a:hover {
+  color: #333;
+}
+
+.block-editor div[data-block] p a,
+.block-editor div[data-block] table a,
+.block-editor div[data-block] li > a {
+  color: #218fe6;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce a:hover,
+.block-editor div[data-block] a:hover {
+  color: #218fe6;
+}
+
+.editor-writing-flow h1,
+.editor-writing-flow h2,
+.editor-writing-flow h3,
+.editor-writing-flow h4,
+.editor-writing-flow h5,
+.editor-writing-flow h6,
+.w-option-set {
+  margin-bottom: 25px !important;
+  font-family: 'Open Sans', arial;
+  font-weight: 400;
+  margin-top: 0 !important;
+  color: #303030;
+  line-height: 1.38em;
+}
+
+.editor-writing-flow h4,
+.editor-writing-flow h5,
+.editor-writing-flow h6 {
+  margin-bottom: 18px !important;
+}
+
+.editor-post-title__block .editor-post-title__input {
+  font-family: 'Open Sans', arial;
+  font-weight: 400;
+  color: #303030;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul,
+.editor-writing-flow ul {
+    list-style: disc inside;
+    margin-bottom: 25px;
+    padding-left: 0;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ol,
+.editor-writing-flow ol {
+  list-style: decimal inside;
+  margin-bottom: 25px;
+  padding-left: 0;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce li,
+.editor-writing-flow li {
+  margin-bottom: 0;
+}
+
+.block-editor .wp-block-categories ul,
+ul.wp-block-archives.wp-block-archives-list {
+  padding-left: 0;
+  list-style-type: disc;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul > li > ul,
+.wp-block-freeform.block-library-rich-text__tinymce ol > li > ol {
+    margin-left: 25px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce ul ul,
+.wp-block-freeform.block-library-rich-text__tinymce ol ol {
+  margin-bottom: 0;
+}
+
+.vntd-accent-color,
+.wp-block-freeform.block-library-rich-text__tinymce a {
+    color: #218fe6;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h1,
+.editor-writing-flow h1 {
+  font-size: 38px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h2,
+.editor-writing-flow h2 {
+  font-size: 32px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h3,
+.editor-writing-flow h3 {
+  font-size: 28px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h4,
+.editor-writing-flow h4 {
+  font-size: 22px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h5,
+.editor-writing-flow h5 {
+  font-size: 18px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce h6,
+.editor-writing-flow h6 {
+  font-size: 16px;
+}
+
+/* HR */
+
+.wp-block-separator,
+.editor-writing-flow hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+/* Blockquote */
+
+.wp-block-freeform.block-library-rich-text__tinymce blockquote,
+.editor-writing-flow blockquote,
+.editor-writing-flow .wp-block blockquote.wp-block-quote {
+  margin-top: 30px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  padding: 15px 5% 14px 25px;
+  border-left: 3px solid #e4e4e4;
+  position: relative;
+}
+
+.wp-block-quote__citation {
+  font-style: italic;
+    opacity: 0.6;
+    font-size: 16px;
+}
+
+.editor-writing-flow blockquote p {
+  font-size: 16.5px !important;
+}
+
+.editor-writing-flow blockquote p:last-child,
+.editor-writing-flow blockquote ul:last-child,
+.editor-writing-flow blockquote ol:last-child {
+    margin-bottom: 0;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce table,
+.editor-writing-flow table{
+    width: 100%;
+    margin-bottom: 30px;
+    background: #F9F9F9;
+    text-align: left;
+    color: #373a3c;
+    border: 1px solid #e3e3e3;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.wp-block-table__cell-content {
+    padding: 0 !important;
+}
+
+.wp-block-table td, .wp-block-table th {
+  padding: 7px 11px;
+  border: 1px solid #e3e3e3 !important;
+  font-weight: normal;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce table td,
+.wp-block-freeform.block-library-rich-text__tinymce table th {
+  border: 1px solid #e3e3e3 !important;
+  padding: 7px 11px;
+  text-align: left;
+  font-weight: normal;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce table a {
+  text-decoration: none;
+}
+
+.editor-writing-flow address {
+    border-left: 2px solid #eee;
+    padding-left: 10px;
+}
+
+.editor-writing-flow dl,
+.editor-writing-flow address {
+    margin-bottom: 30px;
+}
+
+.editor-writing-flow code,
+.wp-block-freeform.block-library-rich-text__tinymce code {
+  color: #444;
+  background-color: rgba(0,0,0,0.1);
+  border:none;
+  padding: 2px 4px;
+  max-width: 100%;
+  font-size: 90%;
+  font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}
+
+.editor-writing-flow dt {
+  font-weight: bold;
+}
+
+.editor-writing-flow dd {
+  font-weight: normal;
+  margin-left: 0;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.wp-block-freeform.block-library-rich-text__tinymce pre,
+.editor-writing-flow pre {
+    display: block;
+    margin: 0 0 20px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #333;
+    background-color: #f5f5f5;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 13px;
+    background: #f3f3f3;
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+}
+
+body.gutenberg-editor-page .editor-block-list__layout .editor-post-title__block,
+body.gutenberg-editor-page .editor-block-list__layout .editor-block-list__block,
+.wp-block {
+  max-width: 880px;
+}
+
+.editor-writing-flow .wp-block[data-align=full],
+.wp-block[data-align=full] {
+  max-width: none !important;
+}
+
+.edit-post-visual-editor p.wp-block-subhead {
+    font-size: 1.1em !important;
+}
+
+.block-editor div[data-block] kbd {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #fff;
+  background-color: #333;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,.25);
+}
+
+/* Metabox window */
+
+.gutenberg #poststuff .redux-engage_options > h2 {
+    color: #fff;
+    z-index: 1;
+    position: relative;
+}
+
+.gutenberg #poststuff .redux-engage_options .handlediv {
+  position: relative;
+  z-index: 2;
+}
+
+.gutenberg #poststuff .redux-engage_options .handlediv .toggle-indicator {
+    color: #fff;
+    top: 2px;
+}
+
+.gutenberg .redux-container .redux-group-tab > .form-table {
+  box-shadow: none !important;
+}
+
+.editor-writing-flow .wp-block-pullquote blockquote {
+  margin-top: 0;
+  margin-bottom: 0;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+
+.editor-writing-flow .wp-block-pullquote .wp-block-pullquote__citation {
+    font-style: italic;
+    opacity: 0.6;
+    text-transform: none;
+}
+
+.editor-writing-flow .wp-block-pullquote blockquote p {
+    font-size: 24px !important;
+    line-height: 1.6;
+}
+
+.editor-writing-flow .wp-block-pullquote .wp-block-pullquote__citation {
+  font-size: 17px;
+}
+
+
+.editor-writing-flow .wp-block-cover-image .wp-block-cover-image-text,
+.editor-writing-flow .wp-block-cover-image .wp-block-cover-text,
+.editor-writing-flow .wp-block-cover-image h2,
+.editor-writing-flow .wp-block-cover .wp-block-cover-image-text,
+.editor-writing-flow .wp-block-cover .wp-block-cover-text,
+.editor-writing-flow .wp-block-cover h2 {
+	color: #fff;
+	font-size: 2em;
+	line-height: 1.25;
+	margin-bottom: 0;
+	max-width: 610px;
+	padding: 14px;
+	text-align: center;
+	z-index: 1;
+}
+
+.block-library-list .editor-rich-text__tinymce,
+.block-editor .wp-block-latest-posts {
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 20px;
+    list-style-position: inside;
+}
+
+.block-library-list .editor-rich-text__tinymce ul {
+    margin-left: 25px;
+    list-style: disc inside;
+    padding: 0;
+}
+
+.block-library-list .editor-rich-text__tinymce ol {
+  list-style: decimal inside;
+  margin-left: 25px;
+  padding: 0;
+}
+
+.block-library-list .editor-rich-text__tinymce li,
+.wp-block-latest-posts li {
+    margin-bottom: 0;
+}
+
+/* Quote */
+
+blockquote p:before {
+    content: open-quote;
+    margin-right: 5px;
+}
+
+blockquote p:after {
+    content: close-quote;
+    margin-left: 5px;
+}
+
+blockquote p {
+    quotes: "\201C""\201D""\2018""\2019";
+    display: block;
+}
+
+.wp-block-quote.is-large p {
+  font-size: 22px !important;
+      font-style: normal;
+}
+
+blockquote p:before,
+blockquote p:after {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 52px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+blockquote p:before,
+blockquote p:after {
+    font-size: 52px;
+    opacity: .4;
+}
+
+.wp-block-pullquote.alignleft {
+    padding-right: 0;
+    margin-right: 30px;
+    padding: 40px 0;
+}
+
+.wp-block-pullquote.alignright {
+    padding-right: 0;
+    margin-left: 30px;
+    padding: 40px 0;
+}
+
+.editor-writing-flow .wp-block-pullquote.alignleft p,
+.editor-writing-flow .wp-block-pullquote.alignright p {
+  font-size: 20px !important;
+}

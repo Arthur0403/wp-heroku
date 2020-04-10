@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>Home</title>
+		<link>http://engage.veented.com/app/</link>
+		<pubDate>Tue, 25 Apr 2017 13:19:41 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/gym/?page_id=189</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">[vc_row full_height="yes" equal_height="yes" content_placement="middle" color_scheme="white" bg_gradient1="#b06ab3" bg_gradient2="#4568dc"][vc_column width="1/2" col_padding="3" col_padding_side="right"][vc_single_image image="http://engage.veented.com/app/wp-content/uploads/sites/22/2017/04/iphone-white-348x716.png" img_size="348x716" alignment="right" frame=""][/vc_column][vc_column width="1/2" col_padding="3" col_padding_side="left"][vc_custom_heading text="Welcome to MyApp" font_container="tag:h2|font_size:52px|text_align:left" use_theme_fonts="yes" css=".vc_custom_1502450354117{margin-bottom: 10px !important;}"][vc_column_text font_size="large"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donecore ultrices nisl diam, vitae consequat massa wlacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbinus mattis, turpis.[/vc_column_text][vntd_button style="solid" color="white" color_hover="accent" display="inline"][vntd_button style="outline" color="white" color_hover="accent" display="inline"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1502450209302{padding-top: 100px !important;padding-bottom: 70px !important;}"][vc_column width="5/12" col_padding="1" col_padding_side="right"][vc_icon type="linecons" icon_linecons="vc_li vc_li-paperplane" css=".vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}"][vc_column_text font_size="medium"]
+&lt;h2&gt;What is MyApp?&lt;/h2&gt;
+[/vc_column_text][vc_column_text font_size="medium"]
+&lt;p style="text-align: left;"&gt;Nunc id ante quis tellus faucibus dictum in eget metus. Duis suscipit elit sem, sed mattis tellus accumsan eget. Quisque consequat venenatis rutrum.&lt;/p&gt;
+[/vc_column_text][vntd_button label="Learn More" style="solid" color="accent" icon_enabled="yes" icon_fontawesome="fa fa-angle-right" icon_style="right_side_hover" url="#"][/vc_column][vc_column width="7/12" col_padding="1" col_padding_side="left"][vc_single_image image="http://engage.veented.com/app/wp-content/uploads/sites/22/2017/04/laptop-floating.png" css_animation="none" css=".vc_custom_1504882275645{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1502450204444{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_single_image image="http://engage.veented.com/app/wp-content/uploads/sites/22/2017/04/ipad-with-cover-2.png" css=".vc_custom_1504882292110{margin-bottom: 0px !important;}"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_icon type="linecons" icon_linecons="vc_li vc_li-paperplane" css=".vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}"][vc_column_text font_size="medium"]
+&lt;h2&gt;Learn about us&lt;/h2&gt;
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house and commercial builds and we are registered NHBC house builders.[/vc_column_text][vntd_separator][vc_column_text]I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1502450447921{padding-top: 90px !important;padding-bottom: 80px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/2" col_padding="3" col_padding_side="right"][vc_icon type="linecons" icon_linecons="vc_li vc_li-paperplane" css=".vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}"][vc_column_text font_size="medium"]
+&lt;h2&gt;What is MyApp?&lt;/h2&gt;
+[/vc_column_text][vc_column_text font_size="large"]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donecore ultrices nisl diam, vitae consequat massa lacinia consequat. Nullam cursus risus a sem pretium lacinia. Etiam facilisis laoreet justo. Morbinus mattis, turpis.[/vc_column_text][vntd_button label="Learn More" style="solid" color="accent" icon_enabled="yes" icon_fontawesome="fa fa-angle-right" icon_style="right_side_hover" url="#"][/vc_column][vc_column width="1/2" col_padding="3" col_padding_side="left"][vc_single_image image="http://engage.veented.com/app/wp-content/uploads/sites/22/2017/04/iphone-black-397x800.png" img_size="397x800" alignment="center" css=".vc_custom_1504882309276{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row parallax="content-moving" css=".vc_custom_1493989844972{padding-top: 100px !important;padding-bottom: 120px !important;background-color: #f7f7f7 !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}"][vc_column][special_heading title="Our Video" subtitle="Learn more about us from this video." c_margin_bottom="50px" add_icon="true" icon_type="linecons"][video_lightbox style="img" img="http://engage.veented.com/app/wp-content/uploads/sites/22/2017/04/Stocksy_txp0dacca17O9E000_Medium_1339951.jpg" border="round" link="https://www.youtube.com/watch?v=ty0SGNZi81U"][/vc_column][/vc_row][vc_row css=".vc_custom_1502450794602{padding-top: 90px !important;padding-bottom: 50px !important;}"][vc_column][vc_row_inner css=".vc_custom_1502450539426{padding-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Powerful Options" text="Cras auctor consectetur pharetra. Phasellus sollicitudin diam purus, at sagittis diam elementum venenatis. Phasellus accumsan erat quis risus rhoncus, laoreet lobortis diam tincidunt. Aenean vehicula, dolor eget posuere luctus." style="centered-circle" icon_align="left" icon_size="sm" icon_type="linecons" icon_linecons="vc_li vc_li-params"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Responsive Design" text="Cras auctor consectetur pharetra. Phasellus sollicitudin diam purus, at sagittis diam elementum venenatis. Phasellus accumsan erat quis risus rhoncus, laoreet lobortis diam tincidunt. Aenean vehicula, dolor eget posuere luctus." style="centered-circle" icon_align="left" icon_size="sm" icon_type="linecons" icon_linecons="vc_li vc_li-display"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Page Builder" text="Cras auctor consectetur pharetra. Phasellus sollicitudin diam purus, at sagittis diam elementum venenatis. Phasellus accumsan erat quis risus rhoncus, laoreet lobortis diam tincidunt. Aenean vehicula, dolor eget posuere luctus." style="centered-circle" icon_align="left" icon_size="sm" icon_type="linecons" icon_linecons="vc_li vc_li-pen"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][icon_box title="Premium Support" text="Cras auctor consectetur pharetra. Phasellus sollicitudin diam purus, at sagittis diam elementum venenatis. Phasellus accumsan erat quis risus rhoncus, laoreet lobortis diam tincidunt. Aenean vehicula, dolor eget posuere luctus." style="centered-circle" icon_align="left" icon_size="sm" icon_type="linecons" icon_linecons="vc_li vc_li-cloud"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Super Configurable" text="Cras auctor consectetur pharetra. Phasellus sollicitudin diam purus, at sagittis diam elementum venenatis. Phasellus accumsan erat quis risus rhoncus, laoreet lobortis diam tincidunt. Aenean vehicula, dolor eget posuere luctus." style="centered-circle" icon_align="left" icon_size="sm" icon_type="linecons" icon_linecons="vc_li vc_li-settings"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Friendly Community" text="Cras auctor consectetur pharetra. Phasellus sollicitudin diam purus, at sagittis diam elementum venenatis. Phasellus accumsan erat quis risus rhoncus, laoreet lobortis diam tincidunt. Aenean vehicula, dolor eget posuere luctus." style="centered-circle" icon_align="left" icon_size="sm" icon_type="linecons" icon_linecons="vc_li vc_li-bubble"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row parallax="content-moving" bg_color_pre="bg-color-accent" css=".vc_custom_1493833319536{padding-top: 95px !important;padding-bottom: 60px !important;}"][vc_column width="1/4"][counter title="Page Likes" number="1430" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-like"][/vc_column][vc_column width="1/4"][counter title="Locations" number="64" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-shop"][/vc_column][vc_column width="1/4"][counter title="Great Ideas" number="960" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-bulb"][/vc_column][vc_column width="1/4"][counter title="Comments" number="420" color="white" icon_type="linecons" icon_linecons="vc_li vc_li-bubble"][/vc_column][/vc_row][vc_row css=".vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}"][vc_column][special_heading title="Testimonials" subtitle="What our awesome clients say about us." c_margin_bottom="55px"][vntd_testimonials style="simple" cols="3" posts_nr="5"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" bg_color_pre="bg-color-1" css=".vc_custom_1502450817995{padding-top: 0px !important;padding-bottom: 20px !important;}"][vc_column][cta heading="Feeling convinced?" subheading="I am a subtitle, feel free to change me!" button1_title="Buy Now" container="contain" align="center" text_color="dark" button1_color="accent" button1_style="solid" button2_color="accent" button2_style="outline" el_bg="none" button1_url="url:http%3A%2F%2Fengage.veented.com%2Fapp%2Fpricing%2F|||" button2_title="Try Demo" button2_url="#"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">720189</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-04-25 13:19:41]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-04-25 13:19:41]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[home-5]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[publish]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502450209302{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1502450204444{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502450447921{padding-top: 90px !important;padding-bottom: 80px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1493989844972{padding-top: 100px !important;padding-bottom: 120px !important;background-color: #f7f7f7 !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}.vc_custom_1502450794602{padding-top: 90px !important;padding-bottom: 50px !important;}.vc_custom_1493833319536{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1502450817995{padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1502450354117{margin-bottom: 10px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882275645{margin-bottom: 0px !important;}.vc_custom_1504882292110{margin-bottom: 0px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882309276{margin-bottom: 0px !important;}.vc_custom_1502450539426{padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502450209302{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1502450204444{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502450447921{padding-top: 90px !important;padding-bottom: 80px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1493989844972{padding-top: 100px !important;padding-bottom: 120px !important;background-color: #f7f7f7 !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}.vc_custom_1502450794602{padding-top: 90px !important;padding-bottom: 50px !important;}.vc_custom_1493833319536{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1502450817995{padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1502450354117{margin-bottom: 10px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882275645{margin-bottom: 0px !important;}.vc_custom_1504882292110{margin-bottom: 0px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882309276{margin-bottom: 0px !important;}.vc_custom_1502450539426{padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502450209302{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1502450204444{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502450447921{padding-top: 90px !important;padding-bottom: 80px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1493989844972{padding-top: 100px !important;padding-bottom: 120px !important;background-color: #f7f7f7 !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}.vc_custom_1502450794602{padding-top: 90px !important;padding-bottom: 50px !important;}.vc_custom_1493833319536{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1502450817995{padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1502450354117{margin-bottom: 10px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882275645{margin-bottom: 0px !important;}.vc_custom_1504882292110{margin-bottom: 0px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882309276{margin-bottom: 0px !important;}.vc_custom_1502450539426{padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502450209302{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1502450204444{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502450447921{padding-top: 90px !important;padding-bottom: 80px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1493989844972{padding-top: 100px !important;padding-bottom: 120px !important;background-color: #f7f7f7 !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}.vc_custom_1502450794602{padding-top: 90px !important;padding-bottom: 50px !important;}.vc_custom_1493833319536{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1502450817995{padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1502450354117{margin-bottom: 10px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882275645{margin-bottom: 0px !important;}.vc_custom_1504882292110{margin-bottom: 0px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882309276{margin-bottom: 0px !important;}.vc_custom_1502450539426{padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502450209302{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1502450204444{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502450447921{padding-top: 90px !important;padding-bottom: 80px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1493989844972{padding-top: 100px !important;padding-bottom: 120px !important;background-color: #f7f7f7 !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}.vc_custom_1502450794602{padding-top: 90px !important;padding-bottom: 50px !important;}.vc_custom_1493833319536{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1502450817995{padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1502450354117{margin-bottom: 10px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882275645{margin-bottom: 0px !important;}.vc_custom_1504882292110{margin-bottom: 0px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882309276{margin-bottom: 0px !important;}.vc_custom_1502450539426{padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:1:"0";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1502450209302{padding-top: 100px !important;padding-bottom: 70px !important;}.vc_custom_1502450204444{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1502450447921{padding-top: 90px !important;padding-bottom: 80px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1493989844972{padding-top: 100px !important;padding-bottom: 120px !important;background-color: #f7f7f7 !important;background-position: center;background-repeat: no-repeat;background-size: cover !important;}.vc_custom_1502450794602{padding-top: 90px !important;padding-bottom: 50px !important;}.vc_custom_1493833319536{padding-top: 95px !important;padding-bottom: 60px !important;}.vc_custom_1494262501239{padding-top: 80px !important;padding-bottom: 75px !important;}.vc_custom_1502450817995{padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1502450354117{margin-bottom: 10px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882275645{margin-bottom: 0px !important;}.vc_custom_1504882292110{margin-bottom: 0px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1494845054727{margin-bottom: 15px !important;margin-left: -13px !important;}.vc_custom_1504882309276{margin-bottom: 0px !important;}.vc_custom_1502450539426{padding-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:102:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/shutterstock_166601417.jpg?id=365";a:1:{s:9:"timestamp";i:1495448550;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>

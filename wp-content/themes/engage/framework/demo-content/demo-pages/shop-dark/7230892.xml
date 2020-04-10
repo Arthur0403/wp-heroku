@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>Home 3</title>
+		<link>http://engage.veented.com/shop-dark/home-3/</link>
+		<pubDate>Wed, 09 Aug 2017 11:35:10 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[vntd_engage_admin]]></dc:creator>
+		<guid isPermaLink="false">http://engage.veented.com/agency/?page_id=892</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[[vc_row color_scheme="white" css=".vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vntd_hero_section top_heading="Welcome to" heading="Classic Shop" subtitle="We're the biggest, best equipped and most advanced Web Agency in the greater Los Angeles area. " btn1_label="Learn More" scroll_btn="true" images="1135" bg_overlay="dark10" height="custom" height_custom="800px" content_width="narrow" content_offset="50px" parallax="no" heading_fs="76px" heading_tt="normal" subtitle_fs="22px" btn1_style="solid" btn1_url="http://engage.veented.com/barber/about/"][/vc_column][/vc_row][vc_row css=".vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][vc_column_text]
+<h2 style="text-align: center;">New Arrivals</h2>
+[/vc_column_text][vc_column_text font_size="large"]
+<p class="p1" style="text-align: center;">Nunc id ante quis tellus faucibus dictum in eget metus. Duis suscipit elit sem, sed mattis tellus accumsan eget. Quisque consequat venenatis rutrum. Quisque posuere enim augue, in rhoncus diam dictum non. Etiam mollis pulvinar nisl.</p>
+[/vc_column_text][/vc_column][vc_column width="1/6"][/vc_column][/vc_row][vc_row css=".vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}"][vc_column][products columns="4" orderby="title" order="" ids="37, 79, 67, 19"][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][vc_column_text]
+<h2 style="text-align: center;">Best Sellers</h2>
+[/vc_column_text][vc_column_text font_size="large"]
+<p class="p1" style="text-align: center;">Faucibus dictum in eget metus. Duis suscipit elit sem, sed mattis tellus accumsan eget. Quisque consequat venenatis rutrum. Quisque posuere enim augue, in rhoncus diam dictum non. Etiam mollis pulvinar nisl.</p>
+[/vc_column_text][/vc_column][vc_column width="1/6"][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}"][vc_column][best_selling_products per_page="4" columns="4"][/vc_column][/vc_row][vc_row css=".vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][vc_column_text]
+<h2 style="text-align: center;">Old Classic</h2>
+[/vc_column_text][vc_column_text font_size="large"]
+<p class="p1" style="text-align: center;">Duis suscipit elit sem, sed mattis tellus accumsan eget. Quisque consequat venenatis rutrum. Quisque posuere enim augue, in rhoncus diam dictum non.Nunc id ante quis tellus faucibus dictum in eget metus.</p>
+[/vc_column_text][/vc_column][vc_column width="1/6"][/vc_column][/vc_row][vc_row css=".vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}"][vc_column][top_rated_products per_page="4" columns="4" orderby="rand" order=""][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" parallax="content-moving" parallax_speed_bg="1.3" bg_color_pre="bg-color-1" css=".vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_single_image image="1130" img_size="800x640" css=".vc_custom_1506415193759{margin-bottom: 0px !important;}"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left" css=".vc_custom_1503331644977{padding-top: 20px !important;}"][vc_column_text]
+<h3>New arrivals every week.</h3>
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house. We are so happy with this theme. Everyday it make our lives better.[/vc_column_text][vntd_list items="Aliquam fermentum lorem quis posuere mattis.,Sed mollis sapien erat id pellentesque libero.,Pellentesque nisl id semper bibendum." icon="fa fa-thumbs-o-up"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" parallax="content-moving" parallax_speed_bg="1.3" css=".vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right" css=".vc_custom_1503331770203{padding-top: 20px !important;}"][vc_column_text]
+<h3>Summer Sale.</h3>
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house. We are so happy with this theme. Everyday it make our lives better.[/vc_column_text][vntd_list items="Aliquam fermentum lorem quis posuere mattis.,Sed mollis sapien erat id pellentesque libero.,Pellentesque nisl id semper bibendum." icon="fa fa-thumbs-o-up"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_single_image image="1151" img_size="800x640" css=".vc_custom_1506415206894{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row bg_color_pre="bg-color-1" css=".vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}"][vc_column][special_heading title="Why our store?" subtitle="You are going to love those." c_margin_bottom="60px"][vc_row_inner css=".vc_custom_1494858130762{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Powerful Options" text="Take a full control over all aspects of your theme with our truly extensive Options Panel." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-params"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Responsive Design" text="Engage is a fully responsive and retina ready theme that scales well to all mobile devices." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-display"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Satisfied Clients" text="Build any layout you can think of with the most powerful page builder Visual Composer." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-pen"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1494858134698{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Demo Content" text="All of presented layouts and theme demo pages are available with a single mouse click." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-megaphone"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Free Support" text="Our top-notch support team will be more than happy to answer any of your questions." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-bubble"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Documentation" text="Everything you need to know about the theme is located in the extensive documentation." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-news"][/vc_column_inner][/vc_row_inner][vc_row_inner css=".vc_custom_1494858145826{margin-bottom: 40px !important;}"][vc_column_inner width="1/3"][icon_box title="Google Fonts" text="You may choose any font from the extensive Google Fonts library with a single mouse click." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-star"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Premium Sliders" text="Engage comes with two most powerful sliders out there: Revolution Slider and Layer Slider." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-photo"][/vc_column_inner][vc_column_inner width="1/3"][icon_box title="Styling Options" text="Adjust the looks of your theme with the extensive Styling panel. Possibilities are endless." style="aligned-left-basic" icon_type="linecons" icon_linecons="vc_li vc_li-diamond"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" bg_color_pre="bg-color-accent" bg_overlay="dark40" css=".vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}"][vc_column][cta heading="Feeling convinced?" subheading="I am a subtitle, feel free to change me!" button1_title="Visit Shop" container="contain" align="center" button1_color="white" el_bg="none" button1_url="url:http%3A%2F%2Fengage.veented.com%2Fshop-classic%2Fshop%2F|||"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">7230892</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-08-09 11:35:10]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-08-09 11:35:10]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[home-3]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[publish]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:1:"0";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle]]></wp:meta_key>
+			<wp:meta_value><![CDATA[disable]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1488890943270{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1503331494002{padding-top: 80px !important;padding-bottom: 15px !important;}.vc_custom_1503331508190{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491952994{padding-top: 70px !important;padding-bottom: 15px !important;}.vc_custom_1503491960066{padding-top: 30px !important;padding-bottom: 45px !important;}.vc_custom_1503491978125{padding-top: 70px !important;padding-bottom: 60px !important;}.vc_custom_1503331591606{padding-top: 0px !important;padding-bottom: 45px !important;}.vc_custom_1503492005622{padding-top: 80px !important;padding-bottom: 90px !important;background-position: 0 0;background-repeat: no-repeat !important;}.vc_custom_1503492013190{padding-top: 80px !important;padding-bottom: 90px !important;}.vc_custom_1503492053603{padding-top: 70px !important;padding-bottom: 10px !important;}.vc_custom_1506415219655{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://engage.veented.com/shop-dark/wp-content/uploads/sites/42/2017/08/full-4.jpg?id=1130) !important;}.vc_custom_1503331644977{padding-top: 20px !important;}.vc_custom_1506415193759{margin-bottom: 0px !important;}.vc_custom_1503331770203{padding-top: 20px !important;}.vc_custom_1506415206894{margin-bottom: 0px !important;}.vc_custom_1494858130762{margin-bottom: 40px !important;}.vc_custom_1494858134698{margin-bottom: 40px !important;}.vc_custom_1494858145826{margin-bottom: 40px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[amazonS3_cache]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:102:"http://engage.veented.com/fitness/wp-content/uploads/sites/7/2017/04/shutterstock_166601417.jpg?id=365";a:1:{s:9:"timestamp";i:1495448550;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[transparent]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_topbar_c]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>

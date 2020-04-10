@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<!-- generator="WordPress/4.8.3" created="2017-11-10 11:05" -->
+<channel>
+	<title>Engage Test 5</title>
+	<link>http://localhost/engage-test5</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Fri, 10 Nov 2017 11:05:25 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://localhost/engage-test5</wp:base_site_url>
+	<wp:base_blog_url>http://localhost/engage-test5</wp:base_blog_url>
+
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[get]]></wp:author_login><wp:author_email><![CDATA[get@veented.com]]></wp:author_email><wp:author_display_name><![CDATA[get]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.8.3</generator><item>
+		<title>Services</title>
+		<link>http://www.engage.veented.com/architecture/services/</link>
+		<pubDate>Sun, 12 Nov 2017 14:10:53 +0000</pubDate>
+		<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"><![CDATA[engmickael]]></dc:creator>
+		<guid isPermaLink="false">http://www.engage.veented.com/architecture/?page_id=392</guid>
+		<description/>
+		<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">[vc_row css=".vc_custom_1494837258934{padding-top: 75px !important;padding-bottom: 50px !important;}"][vc_column][vc_custom_heading text="We are truly unique. Wanna know why?" font_container="tag:h2|font_size:34px|text_align:center" google_fonts="font_family:Open%20Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic|font_style:400%20regular%3A400%3Anormal" css=".vc_custom_1494837196348{margin-bottom: 45px !important;}"][vc_row_inner][vc_column_inner width="1/2" css=".vc_custom_1494837242649{padding-right: 25px !important;}"][vc_column_text]
+&lt;p class="p1"&gt;Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at.Mauris sodales felis luctus purus hendreri. Vivamus finibus laoreet tristique. Quisque pharetra, urna.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2" css=".vc_custom_1494837238398{padding-left: 25px !important;}"][vc_column_text]
+&lt;p class="p1"&gt;Nunc id ante quis tellus faucibus dictum in eget metus. Duis suscipit elit sem, sed mattis tellus accumsan eget. Quisque consequat venenatis rutrum. Quisque posuere enim augue, in rhoncus diam dictum non. Etiam mollis pulvinar nisl, sed pharetra nunc elementum non. Mauris sodales felis luctus purus hendrerit, vel cursus odio pulvinar. In ullamcorper ultrices purus.&lt;/p&gt;
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_single_image image="http://www.engage.veented.com/architecture/wp-content/uploads/sites/112/2017/11/archi-14-700x600.jpg" img_size="700x600" css_animation="none" css=".vc_custom_1510496590990{margin-bottom: 0px !important;}"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_column_text font_size="medium"]
+&lt;h3&gt;Interior Design&lt;/h3&gt;
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house and commercial builds and we are registered NHBC house builders.[/vc_column_text][vntd_separator][vc_column_text]I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1510497331927{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_column_text font_size="medium"]
+&lt;h3&gt;Optimize Space&lt;/h3&gt;
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house and commercial builds and we are registered NHBC house builders.[/vc_column_text][vntd_separator][vc_column_text]I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_single_image image="http://www.engage.veented.com/architecture/wp-content/uploads/sites/112/2017/11/archi-11-700x600.jpg" img_size="700x600" css_animation="none" css=".vc_custom_1510496610486{margin-bottom: 0px !important;}"][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_single_image image="http://www.engage.veented.com/architecture/wp-content/uploads/sites/112/2017/11/archi-7-700x600.jpg" img_size="700x600" css_animation="none" css=".vc_custom_1510496723947{margin-bottom: 0px !important;}"][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_column_text font_size="medium"]
+&lt;h3&gt;Architecture&lt;/h3&gt;
+We have been operating for over 30 years and are Members of The Federation of Master Builders. We work on projects big and small from small residential extensions to full house and commercial builds and we are registered NHBC house builders.[/vc_column_text][vntd_separator][vc_column_text]I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" bg_color_pre="bg-color-1" css=".vc_custom_1510497353645{padding-top: 80px !important;padding-bottom: 55px !important;}"][vc_column width="1/2" col_padding="2" col_padding_side="right"][vc_column_text css=".vc_custom_1494857472580{margin-bottom: 18px !important;}"]
+&lt;h3&gt;Our Skills&lt;/h3&gt;
+[/vc_column_text][vc_column_text]Morbi pellentesque, nisl id semper bibendum, nibh sem fermentum magna, eget commodo leo velit sit amet velit. Aliquam fermentum, lorem quis posuere mattis, est justo porttitor magna, in commodo risus justo vitae nibh. Sed mollis sapien erat, id pellentesque libero interdum at. Mauris sodales felis luctus purus hendreri. Vivamus baram sapien era.[/vc_column_text][/vc_column][vc_column width="1/2" col_padding="2" col_padding_side="left"][vc_progress_bar values="%5B%7B%22label%22%3A%22Architecture%22%2C%22value%22%3A%2294%22%7D%2C%7B%22label%22%3A%22Design%22%2C%22value%22%3A%2286%22%7D%2C%7B%22label%22%3A%22Space%20Optimization%22%2C%22value%22%3A%2278%22%7D%2C%7B%22label%22%3A%22Unique%20Furniture%22%2C%22value%22%3A%2272%22%7D%5D" bgcolor="accent" units="%"][/vc_column][/vc_row][vc_row parallax="content-moving" bg_color_pre="bg-color-1" css=".vc_custom_1510497786534{padding-top: 0px !important;padding-bottom: 70px !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][video_lightbox style="img" img="http://www.engage.veented.com/architecture/wp-content/uploads/sites/112/2017/11/archi-15.jpg" border="round" link="https://www.youtube.com/watch?v=ty0SGNZi81U"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text font_size="large" css=".vc_custom_1510497240876{margin-top: 60px !important;margin-bottom: 120px !important;}"]
+&lt;h1 style="text-align: center"&gt;"Architecture is basically the design of interiors, the art of organizing interior space."&lt;/h1&gt;
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces" bg_color_pre="bg-color-accent" bg_overlay="dark30" css=".vc_custom_1510496946566{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://www.engage.veented.com/architecture/wp-content/uploads/sites/112/2017/11/archi16.jpg?id=296) !important;}"][vc_column][cta heading="Feeling convinced?" subheading="Our team of expert will make your project real" button1_title="Hire Us!" container="contain" align="center" button1_color="white" el_bg="none"][/vc_column][/vc_row]</content:encoded>
+		<excerpt:encoded xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"><![CDATA[]]></excerpt:encoded>
+		<wp:post_id xmlns:wp="http://wordpress.org/export/1.2/">740392</wp:post_id>
+		<wp:post_date xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-11-12 14:10:53]]></wp:post_date>
+		<wp:post_date_gmt xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[2017-11-12 14:10:53]]></wp:post_date_gmt>
+		<wp:comment_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[services]]></wp:post_name>
+		<wp:status xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[publish]]></wp:status>
+		<wp:post_parent xmlns:wp="http://wordpress.org/export/1.2/">0</wp:post_parent>
+		<wp:menu_order xmlns:wp="http://wordpress.org/export/1.2/">0</wp:menu_order>
+		<wp:post_type xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[page]]></wp:post_type>
+		<wp:post_password xmlns:wp="http://wordpress.org/export/1.2/"><![CDATA[]]></wp:post_password>
+		<wp:is_sticky xmlns:wp="http://wordpress.org/export/1.2/">0</wp:is_sticky>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_content_padding]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:11:"padding-top";s:0:"";s:14:"padding-bottom";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_skin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[light]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_title_custom]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Services]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:3:"url";s:0:"";s:2:"id";s:0:"";s:6:"height";s:0:"";s:5:"width";s:0:"";s:9:"thumbnail";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_options]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:4:{s:17:"background-repeat";s:0:"";s:15:"background-size";s:0:"";s:21:"background-attachment";s:0:"";s:19:"background-position";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_bg_image_overlay]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_heading_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_subtitle_size]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:9:"font-size";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1494837258934{padding-top: 75px !important;padding-bottom: 50px !important;}.vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1510497331927{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1493822260304{padding-top: 90px !important;padding-bottom: 90px !important;}.vc_custom_1510497353645{padding-top: 80px !important;padding-bottom: 55px !important;}.vc_custom_1510497786534{padding-top: 0px !important;padding-bottom: 70px !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1510496946566{padding-top: 45px !important;padding-bottom: 40px !important;background-image: url(http://www.engage.veented.com/architecture/wp-content/uploads/sites/112/2017/11/archi16.jpg?id=296) !important;}.vc_custom_1494837196348{margin-bottom: 45px !important;}.vc_custom_1494837242649{padding-right: 25px !important;}.vc_custom_1494837238398{padding-left: 25px !important;}.vc_custom_1510496590990{margin-bottom: 0px !important;}.vc_custom_1510496610486{margin-bottom: 0px !important;}.vc_custom_1510496723947{margin-bottom: 0px !important;}.vc_custom_1494857472580{margin-bottom: 18px !important;}.vc_custom_1510497240876{margin-top: 60px !important;margin-bottom: 120px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[page_header_separator]]></wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta xmlns:wp="http://wordpress.org/export/1.2/">
+			<wp:meta_key><![CDATA[custom_pagetitle_breadcrumbs]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+	</item></channel></rss>
