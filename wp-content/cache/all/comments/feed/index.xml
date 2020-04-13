@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Комментарии на сайте Медицинские справки онлайн	</title>
-	<atom:link href="https://med-docs-online.ru/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shielded-reef-87069.herokuapp.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://med-docs-online.ru</link>
 	<description>Получить медицинские справки на все случаи жизни легко и просто!</description>
 	<lastBuildDate>2019-08-13 07:50:21</lastBuildDate>

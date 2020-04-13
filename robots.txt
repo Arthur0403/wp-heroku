@@ -20,4 +20,4 @@ Allow: /wp-*.pdf
 Allow: /wp-admin/admin-ajax.php
 
 
-Sitemap: https://med-docs-online.ru/sitemap.xml
+Sitemap: https://shielded-reef-87069.herokuapp.com/sitemap.xml

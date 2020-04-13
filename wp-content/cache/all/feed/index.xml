@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Медицинские справки онлайн</title>
-	<atom:link href="https://med-docs-online.ru/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shielded-reef-87069.herokuapp.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://med-docs-online.ru</link>
 	<description>Получить медицинские справки на все случаи жизни легко и просто!</description>
 	<lastBuildDate>2019-08-13 07:50:21</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.2.3</generator>
 
 <image>
-	<url>https://med-docs-online.ru/wp-content/uploads/2019/02/cropped-FavIcon-32x32.png</url>
+	<url>https://shielded-reef-87069.herokuapp.com/wp-content/uploads/2019/02/cropped-FavIcon-32x32.png</url>
 	<title>Медицинские справки онлайн</title>
 	<link>https://med-docs-online.ru</link>
 	<width>32</width>
