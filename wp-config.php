@@ -37,6 +37,10 @@ define('DB_CHARSET', 'utf8mb4');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
+
+    $_SERVER['HTTPS']='on';
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
@@ -89,7 +93,3 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
 
 define('FORCE_SSL_ADMIN', true);
-
-if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
-
-    $_SERVER['HTTPS']='on';
